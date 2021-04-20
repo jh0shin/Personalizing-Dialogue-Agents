@@ -1,0 +1,11 @@
+===========================================
+personachat:none
+projects.personachat.kvmemnn.kvmemnn:KvmemnnAgent
+
+03:02:31 INFO | creating task(s): personachat:none
+03:02:31 INFO | loading fbdialog data: /home/junho/.local/lib/python3.8/site-packages/data/Persona-Chat/personachat/test_none_original.txt
+03:02:33 INFO | 10 threads initialized
+03:02:33 INFO | running eval: test
+03:02:35 INFO | eval completed in 2.67s
+03:02:35 REPO | test:
+{"accuracy": 0.3152, "bleu-4": 0.3156, "exs": 7512, "f1": 0.3894, "hits@1": 0.3152, "hits@10": 0.7927, "hits@100": 1.0, "hits@5": 0.6121}
