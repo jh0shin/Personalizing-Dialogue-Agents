@@ -1,3 +1,10 @@
+{
+    "parleys": 80054325,
+    "train_time": 43200.14381098747,
+    "total_epochs": 1218.1306015003272,
+    "best_valid": 0.4746827329829509
+}
+
 [ creating KvmemnnAgent ]
 Loading existing model params from model/kvmemnn/self_persona
 =init done=
@@ -14,19 +21,19 @@ i just got done watching a horror movie
      model: what part of the world is bratislava ?
 wow ! i do love a good horror movie . loving this cooler weather
     labels: but a good movie is always good .
-     model: i work from home doing internet searches
+     model: yes , all descendants from christopher columbus love star wars .
 yes ! my son is in junior high and i just started letting him watch them too
     labels: i work in the movies as well .
      model: when i take over the world i will grant bacon to everyone
 neat ! ! i used to work in the human services field
     labels: yes it is neat , i stunt double , it is so much fun and hard work .
-     model: yes it is neat , i stunt double , it is so much fun and hard work .
+     model: frozen food is bad , full of nitrates .
 yes i bet you can get hurt . my wife works and i stay at home
     labels: nice , i only have one parent so now i help out my mom .
-     model: nice , i only have one parent so now i help out my mom .
+     model: i love ice cream too , but mostly coffee flavor .
 i bet she appreciates that very much .
     labels: she raised me right , i am just like her .
-     model: most of the townspeople actually spoke decent english where i grew up in romania .
+     model: what dons that mean in english ?
 my dad was always busy working at home depot
     labels: now that i am older home depot is my toy r us .
      model: now that i am older home depot is my toy r us .
@@ -66,7 +73,7 @@ hello , how are you doing ?
      model: i am well . how are you ?
 that is great , me too ! i am married and my husband and i have 2 children .
     labels: so then have you ever been to disneyland ?
-     model: hello , i am doing very well , thank you . i am getting married soon .
+     model: so then have you ever been to disneyland ?
 no , we recently purchased a new house , so we cannot afford it . have you ?
     labels: yes i love mickey mouse such a cute little rat
      model: yes i love mickey mouse such a cute little rat
@@ -78,7 +85,7 @@ maybe you should consider going back to school . i did . i major in economics .
      model: you have to meet mickey mouse he is my favorite . do you have kids ?
 i mostly eat a fresh and raw diet , so i save on groceries .
     labels: your economic skills are amazing
-     model: thanks , i like people . i think most of them are good , so i try to help .
+     model: it is like going to a peaceful place
 thank you very much ! i am sure you are a great nurse .
     labels: i am a ok nurse i have dripped some babies though but i am getting better
      model: i am a ok nurse i have dripped some babies though but i am getting better
@@ -92,7 +99,7 @@ hi how are you doing ? i am okay how about you ?
      model: i am doing good . just sipping tea . what do you do for work ?
 i used to do home health aide but now i am disabled .
     labels: i am sorry to hear that . what happened
-     model: i am sorry to hear that . what happened
+     model: be positive , you can can do it . do you like walking outside ?
 i graduated and got my license worked a while and became i will .
     labels: so what do you do now for fun ? i like to read .
      model: age is only a number . you are only as old as you allow yourself to be .
@@ -118,7 +125,7 @@ hi i dye my hair 4 times a year
      model: do you live in the sky ? i do . in the clouds .
 no i do not , i have a dream , it is to work from home
     labels: i make time stop . i have a superpower . i am a super hero .
-     model: yes they are ! that is one reason i like them . and they are furry !
+     model: sure , but you have to get in line . my grey dog barnaby is dying too .
 that is really cool that you can do that
     labels: i love living in the clouds the best . do you have powers ?
      model: i love living in the clouds the best . do you have powers ?
@@ -127,7 +134,7 @@ no i do not , i faint when i see blood
      model: i do not like blood . i vomit .
 i went to school to be a vet , but i did not like it
     labels: i want to be a teacher when i grow up
-     model: it is ok , i feed bobo cats . it is the circle of life .
+     model: i am doing well thank you . finished up a batch of brownies .
 what is your name ? are you a male or female ?
     labels: i am a girl . i do not give out my name .
      model: i am a girl . i do not give out my name .
@@ -167,7 +174,7 @@ your persona: i was poor growing up.
 your persona: i like watching war documentaries.
 hello , how are you tonight ? do you have pink and blue hair ?
     labels: hi , i am doing pretty good these evening
-     model: hi , i am doing pretty good these evening
+     model: hi ! how are you doing today ?
 what do you like to do in your spare time ? i bird watch .
     labels: i actually have purple hair and i love it and enjoy watching war documentaries
      model: i actually have purple hair and i love it and enjoy watching war documentaries
@@ -182,13 +189,13 @@ do you like the holidays ? i do not .
      model: i do love the holidays i volunteer a soup kitchen during the holiday season
 i get depressed . how old are you ? i am very old .
     labels: oh man sorry about that , i am 33 and love giving back i grew up poor
-     model: oh man sorry about that , i am 33 and love giving back i grew up poor
+     model: yes will pay off in the retiring times . yes i cook do make up and hair .
 i did too , back during the great depression .
     labels: oh wow , i can imagine it was a very hard time
-     model: i love watching cooking shows in my free time
+     model: oh wow , i can imagine it was a very hard time
 it was , but it made us strong .
     labels: yes it really did , that is why i enjoy y volunteer work
-     model: yes it really did , that is why i enjoy y volunteer work
+     model: i have not been there before . what did you used to do for work ?
 - - - NEW EPISODE: personachat- - -
 your persona: i love to drink wine and dance in the moonlight.
 your persona: i am very strong for my age.
@@ -211,7 +218,7 @@ which do you prefer white or red ?
      model: that is nice do you go on vacations
 good choice . i always like a nice dry white wine .
     labels: i think i should go grab a bottle now and get some dancing music on
-     model: i think i should go grab a bottle now and get some dancing music on
+     model: well good for you , i am getting a bigger house now since all the kids
 sounds like a good way to enjoy a sunday afternoon .
     labels: yes indeed . being a centenarian you learn to appreciate these things
      model: my home would be the dance studio . i still take weekly lessons .
@@ -228,7 +235,7 @@ if i lived close , i would take you . i teach sunday school .
      model: ah , i see . what do you study ?
 i do . i do not have any , my dogs are my children .
     labels: would you like to know the secret to living as long as i have ?
-     model: what else do you like to do ?
+     model: i have a dog , he is super cool . . getting old though
 yes , please . that would be wonderful .
     labels: drinking wine , and dancing in the moonlight .
      model: drinking wine , and dancing in the moonlight .
@@ -237,10 +244,10 @@ very nice . i do both as well .
      model: yes you do need it ! i do not think wine fits into my raw diet
 oh wow . i hope i live as long as you !
     labels: i may be old , but i am stronger than i look !
-     model: my mommy and daddy helped me sing the abcs
+     model: i may be old , but i am stronger than i look !
 very nice to hear . women are often thought of as weak .
     labels: women were not even allowed to vote when i was a child .
-     model: women were not even allowed to vote when i was a child .
+     model: i do . but i spend all my paychecks on more watches . and shoes .
 that is truly awful . thankfully , things have since changed .
     labels: lots of things have changed . i remember when televisions were not a common household item .
      model: lots of things have changed . i remember when televisions were not a common household item .
@@ -272,7 +279,7 @@ well i am not gonna play dollies with you !
      model: well i do not wanna play with you either !
 good ! i hope you win the baby lottery !
     labels: i am sorry ! do not be mad at me !
-     model: in 2002 i won a gold metal in the olympics
+     model: i am sorry ! do not be mad at me !
 - - - NEW EPISODE: personachat- - -
 your persona: i am a swim coach at my local pool.
 your persona: i am studying to be a computer programmer.
@@ -281,10 +288,10 @@ your persona: my family and i are from india.
 your persona: my favorite music genre is death metal.
 how are you ? i am tired of my parents bothering me , hoping to move out soon .
     labels: i completely get it . my mom is way too traditional for me !
-     model: i completely get it . my mom is way too traditional for me !
+     model: i was born with a heart condition and received a transplant . it changed me .
 i never drink or use drugs . i am 19 and just want to see my friends .
     labels: i understand . when do you think you might be able to move ?
-     model: oh , wow . why has it been so long ?
+     model: wow impressive . not sure you would be impressed with my rainbow coloured hair
 not sure . i have a part time job at burger king . do you work ?
     labels: i do . i coach swimming at the pool near my house .
      model: i do . i coach swimming at the pool near my house .
@@ -296,10 +303,10 @@ that must be tough . what do you study ?
      model: i want to be a computer programmer . are you in school ?
 yes , i am studying education and working part time .
     labels: that sounds interesting . do you like it ?
-     model: i do speak another language and you ?
+     model: i love enrique iglesias , he is my favorite
 yes , i love it . how are your courses ?
     labels: they are great . i really like the challenge . what do you want to teach ?
-     model: no , it is all fake . you only get hurt if you are not paying attention .
+     model: i do but only on long weekends
 i hope to teach elementary school . how much longer until you graduate ?
     labels: three more years . i feel like i wil never get out . how about you ?
      model: they are a rock band
@@ -326,13 +333,13 @@ no usually . i live in the country . just drive my big truck and listen to count
      model: i am alberto , nice to meet you
 not much . i like pizza too !
     labels: i like pizza , one thing in common . i live inland because i am allergic to water
-     model: that is great ! i used to know someone who was 106 . she had been judy garlands dentist
+     model: i have a cat . her name is spook .
 really ? i did not know that was possible ! how do you stay hydrated ?
     labels: very carefully , did you get flooded in texas ?
      model: smartness is a frame of mind
 no . i live more north . near dallas .
     labels: good ! i have not seen a person in 5 years , have my stuff delivered
-     model: yum ! personally , i love shawarma
+     model: hi there . i am invincible who could probably live forever
 - - - NEW EPISODE: personachat- - -
 your persona: i am a gold medalist olympian.
 your persona: gymnastics is my favorite sport.
@@ -350,13 +357,13 @@ i hope to go back when i retire in a few years . how long before you retire ?
      model: i have another two years before i can retire from gymnastics .
 what are your plans after retirement ?
     labels: i would like to go to culinary school , i am still young .
-     model: i am sorry to hear that . i turn to my spouse in times like that .
+     model: i eat a lot of beans for protein .
 i love to cook for my grandkids . i plan to travel more .
     labels: i mainly cook italian , and garlic bread .
      model: i mainly cook italian , and garlic bread .
 i would love to travel to italy . i love baking cookies .
     labels: i would love to be a pastry chef , i make earl grey shortbread a lot .
-     model: i wish lol , i would love that as well . i enjoy watching all sports
+     model: so you don t have any pets ?
 i have never had earl grey shortbread only the tea .
     labels: i put it in the shortbread .
      model: i put it in the shortbread .
@@ -389,7 +396,7 @@ do you have a dog or cat ?
      model: just got done moving . me and my friend got an apartment together
 do you have any brothers or sisters ?
     labels: i have a sister who is 10 years older than me
-     model: i have four siblings . maybe we can all visit your bee farm .
+     model: i do not love cars , i love food . specifically spaghetti .
 - - - NEW EPISODE: personachat- - -
 your persona: i am now looking for a new job.
 your persona: my favorite movie is friday.
@@ -397,22 +404,22 @@ your persona: i am a doctor.
 your persona: my daughter is a child prodigy.
 hello , i am sitting here with my dog . how are you ?
     labels: i am well friend . looking for new employment at the moment .
-     model: hi , i am am very good
+     model: i am well friend . looking for new employment at the moment .
 what would be your dream job ?
     labels: a writer . i am currently an er doctor .
-     model: i use to . roller coasters give me vertigo now .
+     model: if ever you are back in germany let us meet at the heide dorf .
 what was the worst accident you have seen in the er ?
     labels: a man had his throat slit in a home invasion
-     model: do you like the new star wars movies ?
+     model: a man had his throat slit in a home invasion
 that is very scary . i would rather stick to my knitting passion .
     labels: i have a daughter who people say is a child prodigy
      model: i have a daughter who people say is a child prodigy
 what talents does she have ?
     labels: math ! i hate it ! lol . do you have children ?
-     model: oh that is what i do sometimes
+     model: i like to practice the survival skills my parents previously taught me .
 i have two children . they also enjoy math .
     labels: that is nice . what is your favorite movie ?
-     model: that is nice . what is your favorite movie ?
+     model: high school . on my sophomore year
 my favorite movie is clueless .
     labels: mine is friday ! although i do love clueless too !
      model: mine is friday ! although i do love clueless too !
@@ -438,7 +445,7 @@ yeah me to just got back from two weeks in the bush
      model: did your parents teach you to survive like mine did ?
 my dad did he has his own outdoor show its possible you have seen it
     labels: i may have . what is it called ?
-     model: do you think so ? i would not be a teacher if i did not go
+     model: well , tell my old boss that , i like farms , i like to play with piglets
 jim shockey he has survived in places all over the world
     labels: i love that show ! i watch it between studying .
      model: i have dogs , two of them . sadie and isabel .
@@ -477,7 +484,7 @@ so you are a big taylor swift fan as i am ?
      model: i love my girl taylor
 yes she is a1 with her stuff , i love her new album . .
     labels: i know i love you too
-     model: i used to be in the 82nd airborne division and jumped out of planes
+     model: i follow the paleo diet . you ?
 - - - NEW EPISODE: personachat- - -
 your persona: i am a recording engineer and own my own studio.
 your persona: my ex cheated and left me for a lawyer.
@@ -518,7 +525,7 @@ hello . my name is rob . how are you today ?
      model: hi . okay . heartburn . 2 months until i am due . the twins are restless tonight .
 i am sad today remembering my mom who died when i was a child .
     labels: i am so sorry to hear that . my father also passed away . he drove for nascar .
-     model: i am so sorry to hear that . my father also passed away . he drove for nascar .
+     model: working from home would be nice . i am moving for my daughter , she is a prodigy .
 sorry to hear that . my dad is an army soldier .
     labels: i thank him for his service .
      model: oh got to have my papaya .
@@ -530,7 +537,7 @@ i love dogs . i play softball and i love it !
      model: i think ruffles are very cute . what do you do in your spare time ?
 that is a good job . i work in insurance . it also keeps me busy .
     labels: i live in the southwest and i am deathly afraid of scorpions . not a good mix .
-     model: cool . my motorbike has a blue stripe and red when i race , it is shiny .
+     model: i live in the southwest and i am deathly afraid of scorpions . not a good mix .
 that sounds like quite the predicament .
     labels: it is . i do like it here aside from that .
      model: thank you . i am on a quest to be spiritually strong .
@@ -559,10 +566,10 @@ i can only sing when i drink , but i do not like to do that anymore .
      model: omg noo lol are you ok
 construction , like my dad . what do you do when you are not being a rock star
     labels: nice ! i work as a custodian . not too glamorous but it pays the bills haha
-     model: nice ! i work as a custodian . not too glamorous but it pays the bills haha
+     model: i tickle the ivories , strum on the guitar , and sing . i want to be rich and famous .
 i feel ya . you gotta do what you gotta do .
     labels: exactly . do you have other hobbies besides biking ?
-     model: no , but i can stop time it is a superpower . do you have any ?
+     model: i love donuts do u own a house
 - - - NEW EPISODE: personachat- - -
 your persona: i do not care about fashion.
 your persona: i went to school for chemistry but work in a bookstore.
@@ -573,10 +580,10 @@ hello ! where are you from ?
      model: hey ! i am from nyc what about you ?
 i am from a town outside vancouver .
     labels: so what brings you around here ? are you here for work ?
-     model: awesome ! i love parties . i go wild at them .
+     model: what do you like to do in your spare time ? i am either cooking or outside .
 actually i am on leave right now
     labels: oh okay . may i ask what your occupation is ?
-     model: no mine are pretty cool good thing too because i love to party
+     model: what do you do for work ?
 i serve in the canadian army , just as my grandfather did . how about you ?
     labels: i went to college for chemistry , but i actually work in a bookstore now .
      model: i went to college for chemistry , but i actually work in a bookstore now .
@@ -591,7 +598,7 @@ why do you hate orange ?
      model: as a kid i was always bothered by this bright orange lamp my parents had
 that sounds scary . i was scared by my grandfather telling wwii stories
     labels: oh man must have been traumatizing . what do you do to relieve stress ?
-     model: chemistry was my favorite subject , did you get bullied at all ?
+     model: yeah ! we actually both won a medal back in spain
 - - - NEW EPISODE: personachat- - -
 your persona: horror movies are my favorites.
 your persona: i have a son who is in junior high school.
@@ -614,7 +621,7 @@ that sounds very nice . how old is your kid ?
      model: he is in junior high . do you have any kids ?
 i do not . i am still working on building my future .
     labels: what do you want to do ?
-     model: how many dogs do you have
+     model: i like to put them in smoothies that way i get all my servings .
 i am not sure . i am still doing my gen eds .
     labels: that sounds nice . do you have any family line of work that you can get in to ?
      model: those are good hobbies to have .
@@ -629,7 +636,7 @@ hey there how is it going ?
      model: hello . how are you today ?
 i am good just putting hair dye in
     labels: alright . i work in it . if you do not mind , what work are you into ?
-     model: hi , how are you doing today ?
+     model: ok , just making sure . i am 40 .
 oh right how i am between jobs
     labels: the economic situation seem to be gradually picking up though
      model: i have kids too . i also have a couple pets .
@@ -638,7 +645,7 @@ cool , i am addicted to the internet
      model: since you are addicted to internet , do you watch a lot of american sports ?
 i play a lot of role playing games
     labels: ok . do you like dogs ?
-     model: i lost my front teeth playing basketball
+     model: ok . do you like dogs ?
 yeah dogs are pretty cool
     labels: do you think that the internet is pretty safe for children of late ?
      model: i do not know . do you know how to become a dog ?
@@ -656,7 +663,7 @@ your persona: i am a librarian.
 your persona: i am 60years old.
 hello , what are you doing today ?
     labels: i am thinking about my upcoming retirement . how about you ?
-     model: i am doing well . how are you ?
+     model: me too we usually just go to the playground or library
 just raising my kids , i am a homemaking dad .
     labels: very cool . my kids are grown . i am already 60 years old .
      model: oh yes . i always knew i would be a crazy old cat lady .
@@ -668,16 +675,16 @@ she is 9 . i love them all . what work did you do before retiring ?
      model: i work as a librarian , but i am going to retire in the next couple of years .
 that is great , i spent ten years in human services .
     labels: did you stop when your eldest was born ?
-     model: i want a farm but i an broke due to my money spending wife
+     model: not yet , i am hoping for a boy , my husband want a girl
 yes , i had to . i am glad to be home . my father helps out too .
     labels: why did you have to ?
      model: where are you from ? i am originally from somalia .
 children need love , and my wife makes more money .
     labels: do your children like any interesting activities ?
-     model: well that is good , but can you handle your nagging wife
+     model: not a stripper , i danced in spain for the queen .
 no , we just go to home depot on the weekends . my father was manager there .
     labels: do you like to travel ?
-     model: do you like to travel ?
+     model: that is awesome . any pets ? my cat is named spook .
 - - - NEW EPISODE: personachat- - -
 your persona: my favorite food is mexican food.
 your persona: i am a construction worker.
@@ -697,13 +704,13 @@ that is cool . my friends and i work here , we are hoping to buy our own franchi
      model: i am not so good , was with my buds and cracked up the elbow , totally
 i prefer seafood . my dad makes awesome fish tacos .
     labels: that sounds delicious . what type of music do you like ?
-     model: i do not , not yet , yourself ?
+     model: it sure is . my family has a papaya orchard , we started them there .
 metal . mainly metallica . i also love old school rap . tupac is where it is at .
     labels: nice . i listen to a lot of aerosmith , they are my favorite .
      model: nice . i listen to a lot of aerosmith , they are my favorite .
 i like them too . dream on is one of my favorites
     labels: great song . how long have you worked for burger king ?
-     model: wow seriously , that would be great
+     model: oh no . i prepare traditional dishes .
 - - - NEW EPISODE: personachat- - -
 your persona: i am a recluse.
 your persona: i helped design the game starcraft.
@@ -712,7 +719,7 @@ your persona: i have an allergy to water.
 your persona: i am a famous twitch streamer.
 hello , my name is ally and my favourite color is orange
     labels: do you know the game starcraft ? i helped designing it !
-     model: do you know the game starcraft ? i helped designing it !
+     model: he is the best that is why i let him impregnate me
 that s awesome , i m sure my ex boyfriend would like that game
     labels: i usually stream the game on my twitch channel
      model: i eat clean meaning i do not eat in a sloppy way or slurps
@@ -724,7 +731,7 @@ i like hiking in the morning before sunset
      model: yes i am . my aunt helped me escape somalia when i was thirteen years old .
 that s not bad at all
     labels: the worst part about my life is that i am allergic to water
-     model: oh wow , me too . my favorite shirts are flannel ruffle sleeves and any nirvana band shirt .
+     model: that is nice . i vacation at the beach once a year to just decompress .
 that s sad how do you drink
     labels: i have to drink another substance that contains particles of hydrogen and oxygen
      model: i have to drink another substance that contains particles of hydrogen and oxygen
@@ -742,7 +749,7 @@ your persona: whats up i am a 46 year old single dad 46 a kids.
 your persona: my ex cheated and left me for a lawyer.
 hello , how are you tonight ?
     labels: what state are you ? i am in california , age 46
-     model: good , how are you tonight ?
+     model: what state are you ? i am in california , age 46
 i am in ohio . 42 . single and a churchgoer . you ?
     labels: i am good , and you ? i stay home all day and i like it
      model: what is your favorite ? i eat out alot with friends and some love kosher also .
@@ -757,13 +764,13 @@ that is horrible . i am single .
      model: nice ! i would love to travel internationally , but i am afraid of heights .
 yes , the goddess can change people .
     labels: me too , i am a single dad , i do recordings in my studio
-     model: just finished mowing the lawn on this nice sunny day , how are you ?
+     model: my favorite word is trabajo
 that sounds like fun , what kind of music ?
     labels: what do you do ? do you want to meet me ?
-     model: you just might do that . i love to watch television .
+     model: just cannot wait to get out of this small town and move to a bigger city .
 i am sorry , i am too busy to date .
     labels: i record soft rock and light jazz
-     model: oh , wow . i wish i had that problem when i was in school .
+     model: nor do i ! what do you do for a living ? i teach at an elementary school
 - - - NEW EPISODE: personachat- - -
 your persona: i quit my job to pursue my spirituality full time.
 your persona: i have not spoken in three months.
@@ -775,22 +782,22 @@ hi there ? hows it goin ? whatcha havin for lunch today ?
      model: i am going to have pizza after meditation
 me , burgers and fries every day . meditation , who ! whats that like ?
     labels: it is like going to a peaceful place
-     model: the internet is where i got my information on becoming a vegan .
+     model: hello ! i was just in alaska not too long ago .
 i am at peace just bein in my house with my boyfriend . anything else you like ?
     labels: i used to like to talk
-     model: i spend time with my husband , and we travel . you ?
+     model: are your parents supportive ? mine are not when it comes to my dreams .
 not anymore ? not at all ? why not ?
     labels: i have been silent for months now
      model: i have been silent for months now
 oh , i get it . buddhist monk , eh ?
     labels: something like that . where do you live
-     model: his name is bob . i would like to have a dog to go hiking with
+     model: yes , absolutely ! gonna make it big one day
 in my house , with my boyfriend . how come you can chat if you cant speak ?
     labels: i am not allowed to vocalize
-     model: spiritual napping . full time spiritual napping . it has been three months since i talked in fact .
+     model: i cannot figure out the american conversions . germany was different .
 ok . where do you live ? in a monastery ?
     labels: i am thinking about it
-     model: well , that is not cool . they need to give you some room .
+     model: wow ! ! you won gold ! are you rich ?
 any other cool thoughts ? what do you think about when you meditate ?
     labels: i wish for world peace
      model: something just pulled me north and it is the perfect setting to pursue my spirituality .
@@ -801,7 +808,7 @@ your persona: i only listen to country music.
 your persona: i work my parents farms.
 hello ! how are you today ?
     labels: i am good ! just finished working . you ?
-     model: hello ? is this my mom ?
+     model: no worries . i am listening to some country music with my cow bessie
 i am great ! i just got back from a walk with my dog ! how was work ?
     labels: it was tiring . trying to get the fields harvested for winter .
      model: really ? how ? i do a lot of work on my mom and dads farm .
@@ -813,7 +820,7 @@ he is a black lab named is trooper , he is a great hiking buddy !
      model: cute ! where do you hike ? my pet will not travel . she is a cow
 i hike in the mountains here in colorado near pueblo . are there mountains near you ?
     labels: no i live in the middle of no where . miles of country .
-     model: no i live in the middle of no where . miles of country .
+     model: i would prefer live roses , i have a garden full of them !
 where is the middle of no where ? i live near denver for work .
     labels: pennsylvania . amish country . i feel out of place driving my big truck next to buggies
      model: pennsylvania . amish country . i feel out of place driving my big truck next to buggies
@@ -862,7 +869,7 @@ hello how are you today ?
      model: good you ? coloring my adult coloring book , do you like them ?
 no i think they are for whinny illiterate millennials
     labels: well how rude of you . where do you live ?
-     model: oki have a good day !
+     model: i lied i do not have a dog , but do have a bird
 in nyc i work from my condo
     labels: glad we do not live close . i am from a rural part of the u . s . , we farm .
      model: glad we do not live close . i am from a rural part of the u . s . , we farm .
@@ -877,10 +884,10 @@ i have dogs and cats
      model: sounds good . i love to watch nhl hockey even though its football day
 do you like fruits or veggies better ?
     labels: fruits , what about you ?
-     model: fruits , what about you ?
+     model: christopher columbus was my great great grandfather , he travelled a lot !
 i really like oranges a lot
     labels: they are decent ! my favorite is strawberries .
-     model: where do you live at
+     model: i do , and now i just watch my all time favorite movie friday , hey
 - - - NEW EPISODE: personachat- - -
 your persona: i am a feminist.
 your persona: i buy only organic food products.
@@ -901,13 +908,13 @@ yes it sucks loosing i also enjoy lawn mowing on sunny days .
      model: i enjoy green living and just put solar panels on roof
 sounds interesting i also love grilling my food outdoors .
     labels: yummy , i love cookouts . i am involved women rights movement
-     model: yes i do . khaki pants and blue polo shirts . boring , but it s a job .
+     model: yummy , i love cookouts . i am involved women rights movement
 that is good i have not been working for a few years .
     labels: i work from home doing internet searches
      model: i work from home doing internet searches
 great wished i could get a work at home job .
     labels: it has its benefits . i have plenty time tend my organic garden
-     model: especially when people in cubicles near you fart a lot .
+     model: yes , and those with the gravy and cheese crumbles , curds ?
 that sounds interesting i like organic foods .
     labels: they are so healthy for you
      model: they are so healthy for you
@@ -919,10 +926,10 @@ your persona: i am ex military.
 your persona: i work fulltime in a shipyard.
 hello , how are you doing tonight ?
     labels: good , how are you tonight ?
-     model: good , how are you tonight ?
+     model: well now with my major in economics i love guiding people with there money
 i am great , just chillin playing some guitar
     labels: awesome , what are you playing ?
-     model: i never used a loom but will have to try sometime .
+     model: i have heard that about people who are descendants of christopher columbus .
 hank williams . . . . i grew up on country music
     labels: i like country too ! i am kinda tired tonight from a long day at the shipyard .
      model: i like country too ! i am kinda tired tonight from a long day at the shipyard .
@@ -931,7 +938,7 @@ oh yea ? what do you do there ?
      model: i think ruffles are very cute . what do you do in your spare time ?
 very cool . . . i sing for a living !
     labels: that is amazing ! living the dream huh ?
-     model: i have a daughter who people say is a child prodigy
+     model: i like cartman . my favorite thing is shopping .
 yes , absolutely ! gonna make it big one day
     labels: i hope you do ! my passion is making a difference in the world .
      model: oh ! not much money in fanning feathers is it ? why did you change ?
@@ -940,7 +947,7 @@ that is amazing . we need more people like that !
      model: they are not really comparable .
 sadly , no i do not
     labels: i highly encourage you to , especially after you make it big !
-     model: i am doing great . just relaxing with my two dogs .
+     model: i am alright . just resting my blistered feet after cleaning houses all day .
 - - - NEW EPISODE: personachat- - -
 your persona: i have blue eyes and red hair that comes to my waist.
 your persona: i do not have many friends.
@@ -986,7 +993,7 @@ so is my cousin , so cool ! no kids , but i do love icp , the band .
      model: oh ok . i am a single dad . and my recording artist died last year . bad luck !
 wow , you ok ? did your artist use a ford pinto ? that is what i drive .
     labels: i am fine . he just had a n accident here in california .
-     model: they are filming cliffhanger 2 and i was there briefly as a double .
+     model: i am fine . he just had a n accident here in california .
 i do live rpg events over the weekends .
     labels: that is cool . i am 46 how about you ?
      model: that is cool . i am 46 how about you ?
@@ -995,10 +1002,10 @@ i turn 83 in a month .
      model: i am a ok nurse i have dripped some babies though but i am getting better
 no , i professionally stream on twitch .
     labels: oh i have never heard of that .
-     model: i like talking to people , but they sometimes do not understand me
+     model: do you have any pet at your home . because i love cats and i have one spook .
 it is a streaming platform for gamers .
     labels: oh ok , i guess i do not know much on the music side .
-     model: no , it is not . we have a great life .
+     model: they can be depending on what you listen to
 - - - NEW EPISODE: personachat- - -
 your persona: i have one brother.
 your persona: i have three sisters.
@@ -1024,7 +1031,7 @@ what kinds of dogs are they ?
      model: yup ! i remember it . i wish i was a dog .
 sorry i only see that you are close to them
     labels: ok then . well its been nice chatting with you
-     model: thanks , i like people . i think most of them are good , so i try to help .
+     model: my dogs would totally freak out if i moved things with my mind , ha ha ha !
 i guess you too . are you leaving now ?
     labels: thought this was over , guess not
      model: cool . i was outside running and getting ready for the next marathon
@@ -1041,7 +1048,7 @@ awesome ! i really like dancing to that kind of music , especially in the moonli
      model: no . i work in a shipyard .
 very nice , what does your store sell ?
     labels: my store sells everything you could possibly need !
-     model: my store sells everything you could possibly need !
+     model: we stayed at santa monica when i was seven , in 1989 . i love the beach !
 great , are there weights ? i am strong for my age , but would like to get stronger
     labels: there are weights for sure !
      model: there are weights for sure !
@@ -1093,7 +1100,7 @@ hello how are you today ?
      model: hello i am a art major in college , what do you do .
 really i have not done that in years , i am just a lonely
     labels: are you ok ? i know chemistry . i could make you an aspirin !
-     model: it is , and throw another kid in the mix it is a party .
+     model: are you ok ? i know chemistry . i could make you an aspirin !
 i am ok my husband is a doctor so i can get any medicine i want
     labels: wow , good for him . i just work in a bookstore . . .
      model: great ! my helmet is red and my motorbike is blue and my eyes are brown .
@@ -1111,7 +1118,7 @@ that is my favorite color though , can you handle my three story mortgage
      model: you would love the shipyard i work in then .
 whats your average salary i need to know since my family grows
     labels: about 15k . i spend most of that on weekend clubs and raves though .
-     model: why do you think that is
+     model: i am 37 f tampa . i like my walks on the beach and cheeseburgers in paradise .
 - - - NEW EPISODE: personachat- - -
 your persona: i won homecoming queen this year.
 your persona: my current goal is to run a k.
@@ -1135,7 +1142,7 @@ you must be very popular and a good person , too .
      model: yes , i set a goal to actually run a k this year too !
 i get my exercise tending the farm !
     labels: i am sure you do ! i bet it is fun there !
-     model: they are welcome at the bake sale , we have a dog treat table .
+     model: build a spaceship duh uh
 come run a few laps here , it is quite a few acres !
     labels: i just might do that ! i want to achieve my goal of running a k !
      model: i just might do that ! i want to achieve my goal of running a k !
@@ -1186,7 +1193,7 @@ doing good , watching friday , my favorite , and looking on indeed .
      model: i like to wear skinny jeans too , except not for church every sunday .
 awesome ! maybe you could help my daughter , she is so smart .
     labels: does she own dogs like me ?
-     model: does she own dogs like me ?
+     model: thank you for what you do . you are generous and kind .
 no we do not . we would not have time , with my busy schedule . i am a pediatrician
     labels: i always go to church
      model: i always go to church
@@ -1201,7 +1208,7 @@ so a gym teacher ? or trainer ?
      model: do you enjoy hiking at all ? i go during spring usually
 well okay then lol i am not sure if that would be a label
     labels: do you have any pets ?
-     model: i have to since i eat all the time
+     model: do you have any pets ?
 - - - NEW EPISODE: personachat- - -
 your persona: i had cancer but its gone now.
 your persona: i can sew my own clothes.
@@ -1244,7 +1251,7 @@ cool , i deliver mail , and get a lot of martha catalogues !
      model: i have to review and get approval but it should be okay .
 that is great , i like my food grey , the color i like on everything !
     labels: awesome , i just came here from another country
-     model: hello , do you have hobbies ?
+     model: and you ? what do you do ?
 wonderful , i hope there are no scorpions there , they scare me !
     labels: do you like adventure i do
      model: lol if it was not for my boyfriend who stays here i would eat burgers everyday
@@ -1267,19 +1274,19 @@ i just finished spending some time watching birdy fly with my cats .
      model: i bought a raffle ticket to meet taylor swift once , but i lost .
 i am just an old man with rainbow hair
     labels: i am 7 and i have powers that no one knows about
-     model: wow , that sounds odd , meanwhile i just go to the gym often
+     model: right on . i like watching football . i have my bucs hat i wear everyday .
 i have powers too as an animal activist !
     labels: i can make the whole world pause ! freeze time
      model: that is great . do you do anything else besides work out ?
 that makes me kind of depressed , but not as much as holidays do
     labels: awe i love christmas you do not like it ?
-     model: lol . have you heard of solar panels ? i have them on my roof .
+     model: in between jobs right now so you can find me on the treadmill or rowing machine .
 no because nobody comes to visit me i spend it alone
     labels: awe i am lonely a lot too i live in a orphanage
      model: awe i am lonely a lot too i live in a orphanage
 that is very unfortunate of you , maybe you should come live with me !
     labels: do you have room for me ?
-     model: do you have room for me ?
+     model: one time i saw a man fly to the moon
 yeah i have a house with 3 bedrooms and i am the only one here
     labels: wow that is a huge house
      model: i love the eighties . my all time favorite toy is lite brite .
@@ -1336,7 +1343,7 @@ do you have a hobby ? mine is competing in dog agility . makes the time pass . .
      model: ha ! i love that randomness ! so , i was cleaning out closets and found my lite brite !
 good decision ! i usually do not care about fashion , but i like doing hair color .
     labels: oh cool . have you done anything else fun ?
-     model: i am 24 we have difference just one year .
+     model: oh cool . have you done anything else fun ?
 i bleached my hair . black now blond . just hate that orange between the two bleaches .
     labels: i do not bleach my hair . mine is natural and goes down to my waist
      model: i have two kids of my own , grown up now . they never visit . ungrateful .
@@ -1357,13 +1364,13 @@ are there many lawyers there ? i would love to be a lawyer
      model: not much it is pretty quiet here as i live on a horse farm
 i would love to move to a big city and become a lawyer
     labels: ok sure i want to make computer like my dad used to
-     model: yes after i cook all my chef food
+     model: nice ! hopefully i will get a car when i graduate
 that is great , please tell me more interesting things
     labels: i had a friend named noah we were friends from ever since we met at 1
      model: i know what you mean , that is what life is all about
 cool , do you still talk to him ?
     labels: ya not as much since we moved here
-     model: new house and twins too ? sounds challenging .
+     model: ya not as much since we moved here
 how do you like your new life since you moved ?
     labels: it is not so fun i have 2 friend who speak a different langues
      model: a horse that i ride . i enjoy that as well .
@@ -1412,13 +1419,13 @@ cool . what park ? i won homecoming queen and went to the park that night
      model: not sure . i was just exploring the city and found it . how old are you ?
 i am 16 . currently in high school . how old are you ?
     labels: i am 34 and i play many instruments . are you in band ?
-     model: i am 34 and i play many instruments . are you in band ?
+     model: at least you have not been working since you were 16
 i am in band at school . i make straight as ! what instruments do you play ?
     labels: i play trombone , alto sax , baritone , and trumpet . you ?
      model: i play trombone , alto sax , baritone , and trumpet . you ?
 i play the sax . do you run ? my goal is to run a k !
     labels: i do not run . i am constantly moving at the shelter i work at though .
-     model: i do not run . i am constantly moving at the shelter i work at though .
+     model: mine are self absorbed , unless it is about them they do not care .
 you should try to run ! its fun ! moving is good too !
     labels: no ! i will start violin as a new hobby , like my father .
      model: no ! i will start violin as a new hobby , like my father .
@@ -1427,7 +1434,7 @@ i did play the violin last year in band . i did not like it
      model: i do , i love metallica , i never heard them in india .
 did you go to homecoming when you were in school ? i had a blast at mine
     labels: i did not go . who did you go with ?
-     model: every second , of every day . they were and are my world
+     model: i do not drink alcohol at all . i have do many alcoholics in my family
 - - - NEW EPISODE: personachat- - -
 your persona: i have a pet turtle.
 your persona: i am four.
@@ -1435,7 +1442,7 @@ your persona: my best friend lives next door.
 your persona: i like to play with my dolls.
 hi there ! i love to dance , what do you do for fun ?
     labels: oh cool . pole dancing ? well i am only 4 and enjoy coloring .
-     model: oh cool . pole dancing ? well i am only 4 and enjoy coloring .
+     model: no , i had a dog and a turtle in the past
 how would you know what pole dancing is then , dear ?
     labels: my mom is a pole dancer . my pet turtle is my best friend .
      model: my mom is a pole dancer . my pet turtle is my best friend .
@@ -1444,7 +1451,7 @@ that is so sweet . is that your only friend ?
      model: ya they live next door . and my dolls . i live a sheltered life .
 that is ok ! you have plenty of time to grow and learn . i am from far away .
     labels: like in the clouds ? i do not really get to see sunlight .
-     model: like in the clouds ? i do not really get to see sunlight .
+     model: i am doing well . how are you ?
 my aunt helped me to escape a dangerous place . now i live a better life .
     labels: were you a slave ? sometimes i have to food found in alleys .
      model: i thought i would always be a door to door salesperson as my father was .
@@ -1476,7 +1483,7 @@ that is a full body work out right there . do you live in california ?
      model: bathrooms provide great acoustics ! so do corridors !
 i think i need to move . my studio is tanking after the decline of the market .
     labels: oh no . i am moving soon as well . due to personal reasons .
-     model: i love fruit . papaya turns my favorite color when it is ripe .
+     model: i practice by singing to my blocks while stacking them . i think it is my bed time !
 well i hope your reasons work themselves out . what kind of dogs do you have ?
     labels: i have a springer spaniel and a lab . do you have pets ?
      model: i love that movie ! do you remember the part where she rides a motorbike ?
@@ -1497,16 +1504,16 @@ i am a teacher , and do not have time to go more than twice a week .
      model: bummer my fav exercised are the treadmill and rowing machine
 i love the beach and go for every vacation .
     labels: i have to go to the gym a lot because i eat a lot
-     model: i have to go to the gym a lot because i eat a lot
+     model: no i have no massager , if my selfish children ever visited maybe they would get me one .
 i am always on a diet , gotta stay bikini ready .
     labels: cool i eat a lot when i am bored . pets ?
      model: try going to the gym . the secret is never working out
 i have one dog , she is amazing .
     labels: i have 2 dogs . i should take them walking instead of eating .
-     model: i do . two dogs . they are amazing .
+     model: ok . where do you live ? in a monastery ?
 that would be a great idea .
     labels: i have been thinking of growing my hair long it is so short .
-     model: i have been thinking of growing my hair long it is so short .
+     model: i think ruffles are very cute . what do you do in your spare time ?
 a change of style is always a good confidence booster .
     labels: yeah , that is a nice thought . do you have kids ?
      model: oki have a good day !
@@ -1568,10 +1575,10 @@ i do . we sing folk songs at most of ours . i play guitar .
      model: awesome ! i love parties . i go wild at them .
 i do not drink or do drugs .
     labels: ok ok . what do you do besides play guitar ?
-     model: enough about me . tell me more about you .
+     model: ok ok . what do you do besides play guitar ?
 i am a custodian and a security guard .
     labels: interesting ! is that hard to do ?
-     model: it was nice speaking with you .
+     model: yeah , but i wrestle professionally . and work out a few times a week
 - - - NEW EPISODE: personachat- - -
 your persona: i like to eat hamburgers and french fries.
 your persona: i do not drink soda.
@@ -1579,7 +1586,7 @@ your persona: i live in a house.
 your persona: i like to take walks.
 hi ! how are you this evening ?
     labels: i am well ! just got back from taking a walk .
-     model: i am well ! just got back from taking a walk .
+     model: hi there . how goes it ?
 same here ! i am a professional dog walker . just walked two labs .
     labels: oh that sounds fun . i like dogs .
      model: i am a dog trainer , my sisters and i opened a service !
@@ -1588,16 +1595,16 @@ me too ! i love kayaking almost as much .
      model: i love hamburgers and french fries , but not soda . are you married ?
 no , single . i just graduated college . you ?
     labels: i am married and we just bought a house .
-     model: i am married and we just bought a house .
+     model: what else do you like ?
 oh , very cool . i hope you two like it .
     labels: yes it is nice . is kayaking dangerous ?
-     model: oh , that is not good for your health .
+     model: no , you find your own dream .
 depends on where you do it . on rapids , yes . on streams , not so much .
     labels: i see . what did you major in ?
      model: that is a healthy hobby . i dance and keeps me very strong , especially for my age .
 psychology . i read a lot of psych journals in my free time as well .
     labels: that sounds like a lot of work .
-     model: ah that is great . nothing like a good book !
+     model: how do you like your new life since you moved ?
 it was . getting started on the phd next year .
     labels: education is something that no one can ever take away .
      model: yes i also like comedies .
@@ -1624,13 +1631,13 @@ sounds great , i am retired , i was a gym teacher
      model: i need a job and will put my yacht up for rent . i could teach .
 sounds like a good plan , what would you like to teach ?
     labels: economics would be my first choice .
-     model: economics would be my first choice .
+     model: i like rock , how about you
 that sounds good , i bet you would be a good teacher .
     labels: i would try . what hobbies do you have now that you are retired ?
      model: i think it will be great !
 watching was documentaries , how about you ?
     labels: i like cooking shows . i should probably take some classes to improve .
-     model: hi katie here , i am addicted to the internet and love roleplaying games .
+     model: great ! i just finished my morning walk . how are you ?
 - - - NEW EPISODE: personachat- - -
 your persona: one of the languages that i am currently studying is spanish.
 your persona: i am a musician.
@@ -1642,13 +1649,13 @@ stay at home dad here , son is a junior in high school
      model: i am younger , i really want to go to college to become a lawyer
 not much my father used to work at home depot
     labels: you sound like you are trying to rush through your character
-     model: why is that ? i would like to go to a buffet today .
+     model: i do not travel much , i teach so my only time off is in the summer
 i love scary horror movies , do you ? yup , nice to get it out of the way
     labels: not very ethical in my opinion
      model: leo and jazzy . they are fun to have
 yeah , well awesome man . i like to be positive
     labels: i play music and i rock
-     model: hola i am great
+     model: oh no . my library is quite extensive .
 yeah ? well in real life i play music and rock
     labels: my favorite word is trabajo
      model: my favorite word is trabajo
@@ -1678,13 +1685,13 @@ that is not where it belongs .
      model: had a brain transplant now i move objects with my mind
 my son says he can do the same after watching star wars
     labels: your son sounds really awesome
-     model: your son sounds really awesome
+     model: no i did not see that . i am excited for the new star wars though
 he is unique . he has been acting weird since finding out i am pregnant .
     labels: wow congrats that is so cool
-     model: wow congrats that is so cool
+     model: no , i would live to go . i just bought my first home though .
 thanks but it makes my job at the bank really hard .
     labels: i bet , are you banking on a girl or boy ?
-     model: i bet , are you banking on a girl or boy ?
+     model: yes , but i am young . i say weird stuff
 two girls . i am hoping they are omnivores like me .
     labels: yeah nice job getting all those blue sentences in !
      model: no i have no massager , if my selfish children ever visited maybe they would get me one .
@@ -1710,7 +1717,7 @@ wow . can i have organic stuff ? i am browsing the internet a lot .
      model: oh of course ! i drive a pathfinder , nissan , i need a new one
 try to win one off of a twitter contest . i did , and enjoy twitter .
     labels: i did not know there was a twitter contest
-     model: housewives of new jersey . remind me of my ridiculous , materialistic wife .
+     model: they very well could be , unless they are huskies or malamutes .
 ya , are you a female ?
     labels: yes i am , i am 40 years old
      model: i spend a lot of time advocating for animal rights . good hobby for a geezer .
@@ -1731,16 +1738,16 @@ hello ! how are you this evening ?
      model: good . watching the race . and you ?
 ok , for someone with their heart outside their body .
     labels: oh man . how did that happen ?
-     model: i love traveling , i try and experience different cuisines
+     model: i am not good at dancing too big and clumsy . i can pet the bunnies though .
 born that way . had to have a transplant , but it seems ok now .
     labels: crazy . what do you do to stay happy ?
      model: ah . so is my dad , he worked construction , he is the same .
 i really like moving stuff with my mind . and you ?
     labels: what ! i just need some good tacos and nascar .
-     model: what ! i just need some good tacos and nascar .
+     model: i should , i went to an indy car race once . very loud !
 i know , sounds unbelievable but its true . i like tacos .
     labels: the guys i work with make some great ones on fridays .
-     model: sure i am just up grading homework i am a teacher in grade school
+     model: no , i have never found love . men always want me to choose between them or the cats .
 awesome . where do you work ?
     labels: i work in construction . started when i was 16 .
      model: i work in construction . started when i was 16 .
@@ -1758,25 +1765,25 @@ your persona: i own a yacht and i rent it out when i am not using it.
 your persona: hey there i am 23 and i love food.
 hi . just got done with my training run . training for a marathon .
     labels: nice ! i just like to eat food haha .
-     model: hi there how are you tonight ?
+     model: yeah . i do not like it .
 after surviving cancer , i try to stay healthy
     labels: i try to eat healthy but it does not help when i can not cook well
      model: i try to eat healthy but it does not help when i can not cook well
 yeah . maybe i could help . i am a recently hired life coach .
     labels: i been across the globe for years eating food and now i am fat .
-     model: i do . i had to go to a nutritionist . i also take fish oil .
+     model: does your wife like that too
 well take baby steps . i am fortunate my parents were into sports .
     labels: i will rent you my yacht for free for helping !
      model: i will rent you my yacht for free for helping !
 okay . that is a plan . we should meet for a run .
     labels: sure ! the last time i ran was when i was 13 which was like 10 years ago !
-     model: not alot , i might go to church later
+     model: i am correct . i know for a fact
 okay we will start with a half mile . baby steps .
     labels: i can cook for us after our run . i need the practice haha !
-     model: it was . getting started on the phd next year .
+     model: i can cook for us after our run . i need the practice haha !
 i will not make a mess , but lets eat healthy , okay ?
     labels: how about a salad then ?
-     model: my pet turtle would do better than me playing soccer so yes lol
+     model: sure how can that happen ?
 sounds good . maybe a lite dressing with it .
     labels: what is your favorite dressing ?
      model: what is your favorite dressing ?
@@ -1797,10 +1804,10 @@ i have two kids of my own , grown up now . they never visit . ungrateful .
      model: i am stuck with mine awhile , along with my mini van .
 i wish i could buy a car . i cannot afford it on a housekeeper wage .
     labels: maybe you should find a second job .
-     model: i have no pets . i do have children though
+     model: hello . i am leigh . i am at a park i have never been to .
 where , at hooters ? i am 56 year old woman , not what i used to be . . .
     labels: age is only a number . you are only as old as you allow yourself to be .
-     model: i love dogs , coffee is also something i love !
+     model: age is only a number . you are only as old as you allow yourself to be .
 i like your optimism , i suppose i could learn a thing or two .
     labels: it is never too late to learn . i am going to photography school .
      model: are you married ? do you have kids ?
@@ -1809,7 +1816,7 @@ i do not think art is the right choice , it did not do me any good .
      model: i am in ohio . 42 . single and a churchgoer . you ?
 sometimes one has to give up their dreams so someone else can have theirs .
     labels: no , you find your own dream .
-     model: pretty good . i am a barista at a coffee shop
+     model: you too this was nice
 - - - NEW EPISODE: personachat- - -
 your persona: i am 19 and i cannot wait to move out 19 my parents home.
 your persona: i just want to have fun with my friends.
@@ -1823,16 +1830,16 @@ what do you do there at burger king ?
      model: i am only 19 and work the grill . i just want to have fun with friends .
 that is cool i still attend high school
     labels: i want to move out . i am drug and booze free though .
-     model: i want to move out . i am drug and booze free though .
+     model: oh that is amazing ! congrats . i am very strong . i keep in shape .
 what kind of fun do you and your friends like ?
     labels: i play music . i am going to be a rockstar .
-     model: i am still only in my third year of elementary school
+     model: i have to ask my parents .
 i hate drugs and do not drink either what kind of music do you play ?
     labels: scottish black metal . i play electric bag pipes .
      model: what do you do for a living ?
 wow i have never heard of electric bagpipes . are there any videos of them on you tube ?
     labels: yeah , i have videos of me on there . i invented them . they are sweet .
-     model: yeah , i have videos of me on there . i invented them . they are sweet .
+     model: i had one but she tore up all my favorite band t shirts and ruffle sleeved tops .
 i am sorry but i do not think you ever told me your name .
     labels: my name is cletus huckleberry . nice to meet you .
      model: hi i am jerry and i have a phobia over scorpions
@@ -1844,7 +1851,7 @@ your persona: i love new kids on the block.
 your persona: my favorite toy as a child as my lite brite.
 hello , how are you doing today ?
     labels: i am well , how are you ?
-     model: i am well , how are you ?
+     model: i am from bratislava but i live in america
 good . just got back from a nice long walk with my dog .
     labels: cool . so what do you do for fun ?
      model: p pig skins are monitored by the illuminati . they want to take away our booze .
@@ -1853,13 +1860,13 @@ well i play tennis professionally and take care of my growing family .
      model: i am not much into cooking . i do ride motorbike though .
 nice , do you have any pets or children ?
     labels: nope no kids or pets . what about you ?
-     model: what type of school ? i went to a dancing school !
+     model: you bet . the other tellers are throwing me a housewarming baby shower . come on over .
 yes , 2 dogs and 3 soon to be 4 children ! good thing i have a big house
     labels: that is a pretty big family . . must be hectic
      model: promoting the marathon to all the people and the awareness is really a pain
 very much ! and my husband is a doctor , so he is never home .
     labels: well at least he makes a lot of money lol
-     model: that is a lot of kids !
+     model: yea i rock skinny jeans and leggings you
 true . do you have any hobbies ?
     labels: i like to dance and cook . you ?
      model: your economic skills are amazing
@@ -1880,7 +1887,7 @@ he and i both love most sports , but i prefer track and he likes golf !
      model: i like swimming . i coach locally .
 you do ? how fun . are you a guy or girl ?
     labels: a guy . where abouts are you ?
-     model: i have to do work a lot to take care of my kids it is actually draining
+     model: hey , i was freaking poor growing up ! but my favorite food was cheeseburgers !
 hawaii . moved here from texas and love the blue ocean and skies here
     labels: i d love to see america . i hope to work there one day . i live in india .
      model: i d love to see america . i hope to work there one day . i live in india .
@@ -1916,16 +1923,16 @@ yeah i hear ya man , i really do teach fourth graders
      model: i am a teacher . what do you do ?
 i do not too busy with my band and teaching
     labels: what subject do you teach ? i teach history .
-     model: i am sorry about that
+     model: yes that is always a good time . do u work ?
 i teach piano , and vocals
     labels: how many languages do you speak ? i am up to three .
      model: how many languages do you speak ? i am up to three .
 i am at 2 , spanish and english
     labels: i speak those and french . do you like red or silver ?
-     model: i speak those and french . do you like red or silver ?
+     model: me too ! i have been writing some songs in spanish too .
 i like silver more , i think it looks sharp , especially chrome
     labels: i am more partial to the muted tones of each color .
-     model: interesting ! it is not hard to travel in your 60s ?
+     model: i do not know home depot , i moved here not too long ago . what are you doing ?
 - - - NEW EPISODE: personachat- - -
 your persona: my pets name is charlie.
 your persona: i produce music for artists.
@@ -1972,7 +1979,7 @@ why ? chocolate is great ! i get special candy in disney world every summer
      model: wait . . . what ? i am confused . dogs ca not eat chocolate and i will be a dog soon .
 you are hard to understand . let it go ! let it go !
     labels: i love snow , i can roll in it ! dogs can not go to disney ruff
-     model: i was playing fall out . what do you look like ? i m blonde thin .
+     model: thanks . so what else do you do for fun ?
 disney has dogs ! pluto is a dog ! but i like mickey better ! my favorite !
     labels: maybe i can teach pluto abc song ! i want to be a dog just like him !
      model: maybe i can teach pluto abc song ! i want to be a dog just like him !
@@ -2002,7 +2009,7 @@ i would say the walking dead . what about you ?
      model: walking dead is mine too . any hobbies ?
 working on my cars , what are your hobbies ?
     labels: chasing my daughter around , i like to paint when i can .
-     model: chasing my daughter around , i like to paint when i can .
+     model: ba dum tss ! pizza is so delicious .
 nice i had a girlfriend that was an artist . kids are a lot of work .
     labels: yes they are but they are worth it . do you have kids ?
      model: i like hats too ! but , my favorite thing to do is play with my dollies .
@@ -2025,7 +2032,7 @@ i do not . but i am so glad you do something that brings you joy
      model: that is great . any pets ? i have a german shepherd and a schnauzer .
 i got really into running after i beat cancer
     labels: wow you must be brave
-     model: oh , ya i do not like to eat aquarium fish . someone i know though eats guppies .
+     model: hello there ! i am reginald , or reggie if you prefer . how are you today ?
 just determined . i am not taking my second chance for granted
     labels: good idea , you sound like an amazing human
      model: i follow the paleo diet . you ?
@@ -2046,7 +2053,7 @@ hi how are you doing
      model: hello , how are you doing tonight ?
 i am good getting ready for school
     labels: what are you going to school for ?
-     model: i love christian movies , it gives me hope
+     model: lol i wish your tractor was orange . then it would match my wig
 high school i am so ready to graduate
     labels: will you be driving to or living on campus ?
      model: awesome . i was born in the usa . going to college for a nursing degree .
@@ -2073,22 +2080,22 @@ hello i am in canada where are you ?
      model: do you drive tractors in canada ?
 for kids ? that does not make sense .
     labels: i got caught shoplifting and they locked me up
-     model: aww are they both boys or girls ?
+     model: i got caught shoplifting and they locked me up
 how is that because of kids ? did you graduate from high school ? i did not .
     labels: i am still a kid . i want to go back to school
-     model: sorry to hear that . do you like animals ? i have two beautiful dogs !
+     model: no i did now i had all the books i needed at home
 graduate well your in jail . come out better then you went in .
     labels: i get out next month . my mom is visiting tomorrow
      model: i get out next month . my mom is visiting tomorrow
 well make a plan with her to get your life back on track
     labels: do you work ? what do you do ?
-     model: family is good . i love spending time with my five sons .
+     model: do not get me wrong , not all of somalia is bad , just . . . restricted . . . for women .
 yes in the army . you could try that when you get out
     labels: do you like working in the army ?
      model: do you like working in the army ?
 yes it is a bit of a family thing . my grand father was in world war 2 .
     labels: i guess that made your decision to enlist easy
-     model: they very well could be , unless they are huskies or malamutes .
+     model: i love that movie crossroads . have you seen it ?
 yes it did . what do you want to do ?
     labels: i have not given much thought to what to do when i get out .
      model: first timer here . not really sure what to do since i am a blonde girl
@@ -2142,7 +2149,7 @@ when you finish that you could make a rap about my 1992 olympic gold .
      model: absolutely ! ! the subjects are already prepped with truth serum
 yum ! and vanilla ice cream .
     labels: right is it not the best ?
-     model: no walker . i feel like a 20 year old
+     model: oki have a good day !
 sure is . it is right up there with winter . love winter .
     labels: it is a great time of year
      model: i bleached my hair . black now blond . just hate that orange between the two bleaches .
@@ -2163,13 +2170,13 @@ hello ! you should friend me on facebook .
      model: friend ye ? i hardly know ye . . .
 that is true . but we can chat there too
     labels: where do you live ? i am in cali .
-     model: you are making me hungry . what else do you like to do ?
+     model: i used to be pretty . now i look like someone hobbled me .
 i like in indiana . recently single since my ex left with our kids .
     labels: my ex left me too . cheated on me as well .
      model: my ex left me too . cheated on me as well .
 i hate that . took my belief in god away
     labels: well i am an atheist so that was not a problem for me . but it sucked .
-     model: i have a piranha . i was just feeding him pieces of my ex boyfriend .
+     model: well i am an atheist so that was not a problem for me . but it sucked .
 i bet . i miss my children
     labels: my ex left the kids . but some days i wish she had not . . .
      model: my ex left the kids . but some days i wish she had not . . .
@@ -2181,7 +2188,7 @@ i do . mainly classical . what do you do ?
      model: i have a studio and i help people record music .
 that sounds much more fun than taking care of old people like me
     labels: do you work in a nursing home ?
-     model: i would do that more often too if i had a larger income .
+     model: yes they are a blessing .
 - - - NEW EPISODE: personachat- - -
 your persona: my favorite band is up and i got to see them in concert once.
 your persona: i am an elementary school teacher.
@@ -2189,7 +2196,7 @@ your persona: my parents were also teachers.
 your persona: for vacation i enjoy time at the beach.
 hi there , i am bob .
     labels: hi ! i am andy .
-     model: cool , i taught a few players being an elementary school teacher
+     model: i am good . how are you ?
 i ended things with my boyfriend
     labels: really that is sad . i work as an elementary teacher .
      model: really that is sad . i work as an elementary teacher .
@@ -2225,16 +2232,16 @@ what is the focus of your studies ?
      model: are you in school too ?
 no . i finished in 1995 . what year are in ?
     labels: first year , i just moved here with my best friend for school too .
-     model: new house , new babies ! what do you look like ? i am blonde with blue eyes .
+     model: well of course , from trainers that are very skilled on the subject .
 its great to have friends . i hope you look after each other that is very important
     labels: so true ! so what do you do for a living ?
-     model: racing . i have a red and blue helmet that matches my brown hair .
+     model: wow nice are you really good ?
 i am in mining but i hate it . what is your field of interest
     labels: aside from nursing , i work at a bar to pay for school .
-     model: aside from nursing , i work at a bar to pay for school .
+     model: wow that is saucy . just one rule wear anything you want but orange things .
 bar work can be fun . you learn so much about human nature . thank you for caring about others
     labels: of course , it is like a live sociology class too .
-     model: i love country too ! i only listen to it !
+     model: have a great night . i love you
 absolutely ! ! the subjects are already prepped with truth serum
     labels: i definitely agree ! good perspective . why do you not like mining ?
      model: i definitely agree ! good perspective . why do you not like mining ?
@@ -2248,16 +2255,16 @@ hello how are you doing today ?
      model: hello how are you this fine day ?
 i live in a rural area .
     labels: i see . have you lived there for a long time ? we just recently bought a home
-     model: oh i bet , i go to europe at least twice a year to visit
+     model: that is awesome that means you are very open minded .
 no 2 years my husband birth parents live here
     labels: that is very nice . life must be very relaxing outside the cities . do you have children ?
      model: nice , do you have any pets or children ?
 no i have 2 dogs
     labels: i do not have any pets , but i may be interested in one
-     model: true . do you have any hobbies ?
+     model: very cool ! i loved it when my kids left .
 what is your favorite sport to watch ?
     labels: i do not have any special interest in sports , do you have any favorite sports ?
-     model: i am okay i guess , pretty lonely though .
+     model: i do not have any special interest in sports , do you have any favorite sports ?
 i like to watch hockey .
     labels: i see , do you live in united states or canada ? i heard hockey is very popular there .
      model: i see , do you live in united states or canada ? i heard hockey is very popular there .
@@ -2278,7 +2285,7 @@ are you having problems texting ?
      model: i am an old retired guy , so i might be doing something wrong !
 i am fine , just getting ready for a walk with my dog .
     labels: that sounds like a nice time . i like to try to be active myself . i love walks .
-     model: that sounds like a nice time . i like to try to be active myself . i love walks .
+     model: do you like the new star wars movies ?
 that s nice . i enjoy walking . i try to do it at least once a day .
     labels: i used to be a gym teacher so i used to be quite fit !
      model: i used to be a gym teacher so i used to be quite fit !
@@ -2290,7 +2297,7 @@ i guess you earned the right to do it . i try to stay away from the temptation .
      model: yup . a cheeseburger and a war documentary are my idea of a good saturday
 that s funny . mine is a bottle of wine .
     labels: that cant hurt either ! what else do you like to do ?
-     model: i do not mind it , as long as i know it is there and the bills are paid
+     model: i did go to school to be a vet but i did not like it
 seeing a kid learn is my passion .
     labels: that is just great . we need more educators like you in the system .
      model: my family was poor but now that i am older i can eat out as well !
@@ -2305,7 +2312,7 @@ hi what do you do ?
      model: i am pregnant first timeso have been stuck at home myself
 sure ! you can be friends with my 3 dogs too if you are not allergic
     labels: oh , i am not ! i am only 12 , though . will they like me ?
-     model: oh , i am not ! i am only 12 , though . will they like me ?
+     model: its easily done on the way to clients houses , plumbers are always on the go .
 i think they will . all of them are friendly ! whats your favorite subject ?
     labels: i do not like school at all . and gym is the worst !
      model: i do not want to talk about my pets
@@ -2335,16 +2342,16 @@ i study languages . do you ?
      model: how many languages do you speak ? i am up to three .
 i like orange . i am studying french next .
     labels: great . i like hiking and need a new boyfriend as of yesterday .
-     model: yeah but i did not mean to . i just wanted a toy .
+     model: you are most welcome . we all must do our part to make the world better .
 what happened with that situation ?
     labels: he ate my fish that matched the color of my dress . bummer !
-     model: oh wow how old are they
+     model: we just bought our first home . we were living in a two bedroom apartment before .
 he did that ? how strange .
     labels: oh , i could tell you stories . i turned 18 yesterday . you sing ?
      model: oh , i could tell you stories . i turned 18 yesterday . you sing ?
 i sing in the languages i study .
     labels: great ! you know any hiking songs ?
-     model: i also enjoy hiking . . olympics are my favorite to watch
+     model: well , you still have plenty of time to make up your mind .
 sort of i guess . i know marching songs .
     labels: that will do ! i like to hike and sing and wear the color orange .
      model: that will do ! i like to hike and sing and wear the color orange .
@@ -2373,7 +2380,7 @@ i lost my hearing in the army . or at least part of it
      model: wow , well thank for serving soldier
 i am now peacefully growing my garden
     labels: i am from canada , where do you live
-     model: i am from canada , where do you live
+     model: in my online role play game i always run around streaking , so all can watch and admire .
 i am from boston baby
     labels: okay , go boston haha , fav food ?
      model: okay , go boston haha , fav food ?
@@ -2424,10 +2431,10 @@ are you in college ? i am an art major
      model: its quite amusing . silly even . do you have any other hobbies ?
 that is neat . i am visiting europe again this year , have you ever been ?
     labels: farthest i have ever been away from home was at the park
-     model: that is cool . i hope that you have a great time !
+     model: this is the worst conversation to be in . i cannot stand to talk to incompetent people .
 do you have any hobbies ?
     labels: going to the park is my favorite hobby . or going to my daughters piano concerts
-     model: going to the park is my favorite hobby . or going to my daughters piano concerts
+     model: i live in a house . do you like to somersaults ? i love gymnastics .
 i enjoy traveling and cooking .
     labels: what kind of stuff do you cook ?
      model: kip just got married ! yes
@@ -2463,7 +2470,7 @@ no . trying to eat healthy in front of my elementary school class .
      model: i can imagine , you should eat more vegetables now
 my students are my family .
     labels: how sweet ! more teachers need to have that attitude .
-     model: it is a great pass time . and keeps me healthy
+     model: oh yes , that sounds fun until you have to eat your dinner !
 i am trying to teach them spanish and french so they are fluent like me .
     labels: at the same time ? does that work very well ?
      model: pretty good . i am a barista at a coffee shop
@@ -2486,7 +2493,7 @@ i am from germany , do you like roller coasters ?
      model: i am using the library at the juvenile detention center .
 are you good at swimming ? i can help you get out .
     labels: i am a great swimmer . what is the plan ?
-     model: i am a great swimmer . what is the plan ?
+     model: i have a library in my house , i like to read books while drinking tea .
 do you have access to explosives and or nun chucks and can you skydive
     labels: i am scheduled out in a month , but if the sooner the better .
      model: wonderful , i hope there are no scorpions there , they scare me !
@@ -2513,10 +2520,10 @@ i bet that was very relaxing . i wish i could leave the center
      model: what center are you at ? i am work at a center as a doc .
 i am at a detention center for juveniles
     labels: oh , wow . that is interesting . i have a daughter that is smart .
-     model: yeah some woman who calls herself a doctor replaces them
+     model: great ! my dad died in a scorpion pit while driving a nascar car . you dance ?
 i wish i was smart enough not to do stupid things like shoplift
     labels: oh ! that is one of the reasons i am looking for a new center to work at .
-     model: yes i am . would you believe farmer george is married to an italian model ?
+     model: yes ! its part of my cancer treatment . i started a new job . you ?
 you do not like the place you are at now ?
     labels: i need to find a place for my daughter to go to school .
      model: i need to find a place for my daughter to go to school .
@@ -2545,19 +2552,19 @@ it is a very delicious fried eggplant
      model: oh i would like to try that time . . maybe share with charlie , my dog
 you have a dog ! what type ?
     labels: a pitbull . . i love pits . do u have pets
-     model: i play with my german shepherd named barnaby . he is my baby .
+     model: oh those are always fun . i used to read many comics during my hospitalizations .
 i do not . canada does not allow pets
     labels: oh that is too bad ! i am from chicago
      model: do you have a fireplace ?
 wow what is it like there ?
     labels: cold and windy now . . not too great
-     model: i would be afraid of hitting them with my car !
+     model: why not ? as long as it is not too loud !
 ouch . it is very nice here like a summer breeze
     labels: that sounds great right now , not ready for winter !
      model: i am good . just got back from my 4hrs at the gym .
 i love winter thought , nice and cold
     labels: i do not enjoy the driving in my honda civic
-     model: i do not enjoy the driving in my honda civic
+     model: in hindsight that was a bad suggestion . i agree .
 - - - NEW EPISODE: personachat- - -
 your persona: i want to be a lawyer.
 your persona: my family has raised horses for a generations.
@@ -2596,16 +2603,16 @@ your persona: i am a boy.
 your persona: i was born with my heart outside my body.
 what do you do for a living ?
     labels: nothing , too young male and been very i will , too .
-     model: no , not today , do you like sailing ?
+     model: me too , but we do not have any kids . just a dog !
 i am not i will , but i am overweight
     labels: oh , that is not good for your health .
-     model: do you have room for me ?
+     model: nice chatting with you . i have to run now . bye
 no . it got worse when my wife left me
     labels: wow , and i thought having a transplant for my heart that was outside my body was bad !
      model: wow , and i thought having a transplant for my heart that was outside my body was bad !
 well , that is bad . i would pray for you but i am an atheist
     labels: do you believe in physic abilities like moving objects in same room ?
-     model: i know . everything gets recycled it seems .
+     model: do you believe in physic abilities like moving objects in same room ?
 i will believe it when i see it
     labels: that has been happening to me since my surgery .
      model: that has been happening to me since my surgery .
@@ -2617,7 +2624,7 @@ i hope i can . she took our kids , too .
      model: i guess that is true if you take a look as a whole
 i spend a lot of time on facebook , so you will see a lot
     labels: okay , and you can follow mine if you want .
-     model: i am sorry to hear that
+     model: i am in mississippi the south
 - - - NEW EPISODE: personachat- - -
 your persona: my father played violin professionally.
 your persona: i am a piano teacher on the side.
@@ -2637,7 +2644,7 @@ are you afraid of dying ? i am , my therapists laughs at me for it .
      model: those are beautiful horses . my father plays violin professionally .
 i am always alone , it feels nice . i appreciate nature more .
     labels: i love nature ! i am going camping tomorrow night
-     model: i hear you though it seems we are all underpaid .
+     model: i love nature ! i am going camping tomorrow night
 it is too cold here to go camping .
     labels: its just starting to cool off here .
      model: bar work can be fun . you learn so much about human nature . thank you for caring about others
@@ -2672,7 +2679,7 @@ i have grandchildren , but i do not wanna see those little brats
      model: you do not like children ? i also volunteer at a bunny rescue .
 man i was walkin down the street , this dude jumped 300 feet down , landed on his feet
     labels: was he spiderman ? that would creep me out .
-     model: it hurts and this cast smells like a dead monkey butt , seriously , what color hair ?
+     model: was he spiderman ? that would creep me out .
 this one time , this guy turned into a alien , and he teleported , nobody believes me
     labels: i believe you , not spiderman but superman .
      model: i have a pet cat named spook and i do not have a pet sitter .
@@ -2696,7 +2703,7 @@ wow ! did you ever consider violin ? if i am not practicing , i usually unwindin
      model: yeah i actually play the violin , guitar , drums and piano .
 that is cool . i bet you are very talented .
     labels: thank you . not as talented as my father , but i try !
-     model: thank you . not as talented as my father , but i try !
+     model: my family likes to live in the past . especially my mother .
 a lot of people do not have the musical ear .
     labels: sorry i gotta go soon , the people at the homeless shelter are waiting for me .
      model: sorry i gotta go soon , the people at the homeless shelter are waiting for me .
@@ -2744,7 +2751,7 @@ hello . can you move objects with your mind ?
      model: on the weekend , i get together with friends and do live action roleplaying
 i am great . i had heart surgery and woke up with weird superpowers .
     labels: i am so sorry to hear that i believe your powers are from the lord .
-     model: do you have any hobbies ?
+     model: i am so sorry to hear that i believe your powers are from the lord .
 i do not know . my heart was outside of my body now it is in .
     labels: i tend to watch large amounts of t . v . on free times .
      model: i am in ohio . 42 . single and a churchgoer . you ?
@@ -2753,10 +2760,10 @@ i love the walking dead . are you a fan ?
      model: yes i am a fan and love zombie and vampire movies too
 i like captain america and star wars .
     labels: what super powers did you awake with ?
-     model: family is important . i learned everything i know from my father .
+     model: ha . i think i just talked to you
 moving objects with my mind .
     labels: ok that is cool and i like going to the gym most days .
-     model: ok that is cool and i like going to the gym most days .
+     model: near ca . i am applying for jobs in the south at hospitals .
 i like to swim and walk on the beach .
     labels: i have a job inside my apartment i like working home .
      model: i do not know about that bro working from home does not pay too well .
@@ -2776,7 +2783,7 @@ how would you do that ?
      model: i am a life coach so we could discuss
 that is cool the things i move are moved with my mind
     labels: oh wow interesting . i move my body by running
-     model: oh wow interesting . i move my body by running
+     model: i do not have much time as i play soccer . you ?
 that is cool i do not excercise a lot
     labels: you should ! exercise and clean eating are so important
      model: you should ! exercise and clean eating are so important
@@ -2785,10 +2792,10 @@ that is true what do you like to do
      model: i like to run marathons just like my parents did
 that is nice that you do things after your parents
     labels: i admired them and their athleticism very much
-     model: do you have any favorite movies ? i love spiderman ! ! !
+     model: oh yes , music is important .
 that is cool what kind of food do you like
     labels: i follow the paleo diet . you ?
-     model: mine were before , but i never clean them
+     model: not really . she s a bad cook and we end up getting pollo loco a lot
 - - - NEW EPISODE: personachat- - -
 your persona: i feel like i might live forever.
 your persona: i am 100 years old.
@@ -2832,7 +2839,7 @@ do you like dogs ? i have three .
      model: yes . i like dogs . what kind are they ?
 i have a lab and a mixed breed .
     labels: my best friend has a cat . she lives next door to me .
-     model: my best friend has a cat . she lives next door to me .
+     model: sure , but you have to get in line . my grey dog barnaby is dying too .
 i like cats . do you play with her a lot ?
     labels: yes . we play with our dolls together . how old are you ?
      model: yes . we play with our dolls together . how old are you ?
@@ -2841,7 +2848,7 @@ i am 26 . do you need a babysitter ?
      model: i am only four years old . i do not like my babysitter .
 tell your parents . you should always like the one who is watching you .
     labels: she gets mad at me when i do not clean my room .
-     model: just listening to some old tunes . new kids on the block !
+     model: my favorite color is green , for dolla dolla bill
 - - - NEW EPISODE: personachat- - -
 your persona: i have three children.
 your persona: my wife and kids are the best.
@@ -2855,13 +2862,13 @@ the last person i had coffee with kept trying to add schnapps . not cool .
      model: o really my all time fave skater is rob dryden all my friends skate
 if you love mountain biking too i will eat my fathers hard hat
     labels: no , i am kinda a quiet family man . my wife and kids rock .
-     model: no , i am kinda a quiet family man . my wife and kids rock .
+     model: ha ha yes . how many meds do you take ?
 haha glad to hear that . how many kids do you have ?
     labels: three . it is all fun and games until someone tries to steal my chocolate ice cream .
      model: three . it is all fun and games until someone tries to steal my chocolate ice cream .
 no worries i took up mountain biking when i put down my ice cream spoon
     labels: much healthier . do you work ? i own a plumbing business .
-     model: well , my kids are usually outside playing with the dogs . what about your family ?
+     model: i am fine , i was watching a cooking show , i like those
 i used to do a bit of construction . want to be an architect . any hobbies ?
     labels: i like to read and play video games . i mostly just spend time with my family .
      model: no i feel like i am older then you ! want any tips on getting girls ?
@@ -2870,7 +2877,7 @@ that is cool . what do you read ?
      model: do you like icecream ? i really like vanilla
 have you read team of rivals ?
     labels: i have not . however , it does sound interesting . i will look for it .
-     model: nice i am studying in nyc .
+     model: that sounds wonderful ! maybe i will take my children there too
 - - - NEW EPISODE: personachat- - -
 your persona: i have short hair.
 your persona: two dogs live with me.
@@ -2881,13 +2888,13 @@ hey ! do you love cats ?
      model: hey . . . i am a dog person , i have two
 ah that is cool , i have two cats and got a collection of 1000 hats for them !
     labels: wow ! ! ! that is a lot lol
-     model: i have a collection of antique banjos i keep in the back of my yacht .
+     model: i do not know what that is . i like kosher pickles .
 yeah , i have a weakness for cats and vanilla ice cream , they are the best !
     labels: my weakness is eating when i am bored
-     model: my weakness is eating when i am bored
+     model: docs said it was radiation poisoning . something she was working on
 what is your favorite season ? mine is winter !
     labels: i am a summer girl
-     model: what sort of diet are you talking about ?
+     model: i am a summer girl
 have you ever watched the olympics ? i won a gold medal in 1992 !
     labels: cool what did you win for ?
      model: i work for the vegetarians with vaginas organization .
@@ -2916,10 +2923,10 @@ you should join the military . i am ex military . girls love uniforms ;
      model: i would like to go on tour with the rascal flats .
 i joined the navy because i like navy blue , but infantry has sexy uniforms also .
     labels: i will definitely keep the in mind if i join .
-     model: i will definitely keep the in mind if i join .
+     model: i really like american football . i am a steelers fan
 i donate part of my salary to my bunny rescue . you should too .
     labels: do you have any bunnies ?
-     model: mine are smart . construction work for me . what is your job ?
+     model: do you have any bunnies ?
 not anymore . i ate them all .
     labels: wow ! you have quite the appetite .
      model: true that ! somewhere between psalms 31 and tupac is me , lol
@@ -2959,31 +2966,31 @@ your persona: i am four.
 your persona: my best friend lives next door.
 hi , my name is kate and i am from ohio .
     labels: hello miss ! i m ben and i m grounded for not picking up my toys
-     model: hello miss ! i m ben and i m grounded for not picking up my toys
+     model: i like nascar and ufc
 i am sorry to hear that . do you like pizza ?
     labels: when mommy orders it . what do you like on your pizza ?
      model: so true . enough about me . tell me more about you .
 it is my favorite food . i really like it with black olives on it . you ?
     labels: i like the red stuff underneath the cheese ! how old are you ?
-     model: yes , i would love to .
+     model: i am a teacher . maybe you are one of my students
 i am thirty years old and i work at a supermarket in my town .
     labels: is that where my parents pick up the food ?
-     model: is that where my parents pick up the food ?
+     model: i am doing great i just got an apartment
 i am not sure if it is the same one .
     labels: do you have any pets ?
-     model: why not ? they must want to eat them
+     model: i should , i went to an indy car race once . very loud !
 i have a cat . his name is spook . what about you ?
     labels: i have a turtle . i named him leo
      model: i have a turtle . i named him leo
 that is cool . how did you get a turtle ?
     labels: my best friend got it for me . he lives across he street
-     model: i also like mowing my lawn when the suns out
+     model: i am usually pretty proactive when i go out to eat . i call ahead and check
 that was sweet of him . do you like music ?
     labels: i like what barney sings !
-     model: okay . it was great talking to you .
+     model: we grow corn and soybeans at my parents farm . what dog do you have ?
 you may not know them , but the who is a great band !
     labels: daddy listens to them all the time !
-     model: daddy listens to them all the time !
+     model: hey i go to preschool . my name is roddy
 - - - NEW EPISODE: personachat- - -
 your persona: i am a skateboarder.
 your persona: my favourite skater is rob dryden.
@@ -2992,7 +2999,7 @@ your persona: my friends are all skateboarders.
 your persona: i have a broken arm.
 hi . i do not like working as a car salesman .
     labels: i recently broke my arm so i am not working
-     model: i recently broke my arm so i am not working
+     model: not too often , i am still making payments on my nissan pathfinder so i cannot waste money
 what happened ? it is hard to do anything with a broken arm .
     labels: i blame my skateboarding friends
      model: yes i have a god she protects me from clowns
@@ -3001,7 +3008,7 @@ do you think 40 is too old to go back to school ?
      model: do you pay attention to oversea sports ? i enjoy all american sports .
 no money . once i get paid my wife goes shopping . never get married .
     labels: good advise , thank you for that
-     model: i am doing great ! just got home from shopping .
+     model: lol , i know , have you ever experience tornados
 where do you work ?
     labels: i try to avoid working at all
      model: yes huskies are always catholic . i really like my foamy baths .
@@ -3068,7 +3075,7 @@ in california but i want to move to france
      model: yes all grown so i will have help once i get my farm
 no way i would die on the way il fly there
     labels: do they let people as old as you on planes , mister ?
-     model: do they let people as old as you on planes , mister ?
+     model: heights are scary to . do you work i recently started at a gas station
 - - - NEW EPISODE: personachat- - -
 your persona: i live in alaska.
 your persona: i quit my job to pursue my spirituality full time.
@@ -3080,10 +3087,10 @@ what do you do in your spare time ?
      model: i just moved to alaska six months ago .
 that is incredibly brilliant . congratulations
     labels: i appreciate that . are you a spiritual person , may i ask ?
-     model: i appreciate that . are you a spiritual person , may i ask ?
+     model: only if they are female singers . solar panels are all over my roof .
 yes i am actually . i became very close to god after surviving cancer
     labels: you are amazing . thank you for sharing .
-     model: i do not believe in god , maybe that is the problem .
+     model: i have cancer and no smartphone
 you are as well . an inspiration . i must remember you when training my clients
     labels: what is it that you do ?
      model: it is a cool game . i play it daily .
@@ -3098,7 +3105,7 @@ it is very much needed . people need guidance
      model: i agree fully . do you believe in meditation ? my meditation time has brought me much peace
 i meditate right before i run a big marathon and it helps me keep my stamina .
     labels: good for you ! i have never ran a marathon , but i certainly admire your determination !
-     model: good for you ! i have never ran a marathon , but i certainly admire your determination !
+     model: i drink non alcoholic drinks . but like to go shoot pool and darts .
 - - - NEW EPISODE: personachat- - -
 your persona: they are constantly on my back.
 your persona: i do not drink or do drugs or anything.
@@ -3112,16 +3119,16 @@ i am playing some role playing games online today . i love the internet , probab
      model: my job at burger king is taking away all of my video game time .
 i work in fast food also .
     labels: my coworkers are always complaining i burn the burgers . you are not my parents !
-     model: i have never seen it
+     model: my coworkers are always complaining i burn the burgers . you are not my parents !
 i tried to go to school to be a vet . i hated it !
     labels: do you drink or do drugs ?
-     model: do you drink or do drugs ?
+     model: law enforcement work is respectable work . you should be proud !
 i do not . do you dye your hair ? i do every 3 months .
     labels: ok good . but why dye your hair ? that is , like , drugs for your hair .
      model: ok good . but why dye your hair ? that is , like , drugs for your hair .
 i love to dye it blue . red reminds me of blood and i faint from that !
     labels: blue ! ? blue ! ? i hate blue ! ree ! ! !
-     model: blue ! ? blue ! ? i hate blue ! ree ! ! !
+     model: i am actually an artist .
 what color should i dye it ?
     labels: black , like my soul . i am very depressed from working at burger king .
      model: black , like my soul . i am very depressed from working at burger king .
@@ -3150,10 +3157,10 @@ i teach 4th grade . i love mickey mouse . i decorate my classroom with him
      model: i agree , i teach sunday school
 someday i would like to . i am saving up . have you ever been ?
     labels: every year . i am lucky . would you like to go with me ?
-     model: every year . i am lucky . would you like to go with me ?
+     model: are you doing anything to enjoy the weekend ? i ve been playing ping pong with friends
 oh that is a sweet offer . you have to ask your parents first !
     labels: my dad will take you . he has lot of money . where are your vacations ?
-     model: i would love to live in california , lucky
+     model: i am sure you will succeed and win the race , too !
 i do not take many . i play board games mostly . . . teachers do not make much money
     labels: i will ask my dad . do you play video games ? i like them .
      model: gotta keep on moving right .
@@ -3168,10 +3175,10 @@ hello ! how are you doing today ?
      model: hi there ! how are you ?
 i am doing great ! i am just building a model house
     labels: cool . i volunteer at various places at the moment
-     model: i run a lot . no time for the gym . i am a very busy woman .
+     model: hello there , how goes it ?
 that is nice , what places ?
     labels: church , high school tutoring , publishing houses
-     model: animals . and i love to watch birds with my kitty .
+     model: that must get frustrating , to keep moving alot
 i work part time because i cant leave my cats alone long
     labels: wow . how many cats do you have ?
      model: of course it is hard but i love it . you got it made
@@ -3200,22 +3207,22 @@ i like chatting too , it is how i got homecoming queen talking to everyone
      model: that is nice do you go on vacations
 kris , i run , training to run a k , how about yourself any hobbies ?
     labels: ha , ha that is funny my husband was homecoming king in high school
-     model: aww . that is my youngest girls name .
+     model: it was . do you have any hobbies ?
 how long are you married ? did you go to college ?
     labels: i like books . not much time now that i am going to have a baby
      model: i like books . not much time now that i am going to have a baby
 oh congrats ! i read a lot need , the a hope to be a physical therapist
     labels: i got my degree from college , i have been married for 3 years
-     model: i got my degree from college , i have been married for 3 years
+     model: india is not interesting for children . only for adults .
 cool , i want so badly to finish high school and go to college
     labels: so how old are you kris ?
-     model: i used to love reading until i got into art
+     model: in april , its a spring wedding ! i am so excited !
 17 , but feels older . how about you ?
     labels: do not be so eager to grow up its not as fun as you may think
-     model: oh wow , that is amazing . what a handful !
+     model: yes , i think it would work well ! what do horses eat ? we are an omnivore household .
 i know but you get to make your own decisions
     labels: i am 27 and wish i was 17 again ha ha
-     model: at least they are older . middle or high school . . . yikes !
+     model: i am 27 and wish i was 17 again ha ha
 - - - NEW EPISODE: personachat- - -
 your persona: i am a stay at home dad.
 your persona: horror movies are my favorites.
@@ -3226,10 +3233,10 @@ hey ! how are you doing today ?
      model: hi ! doing great . where are you from ?
 i am from the south in the us . what about you ?
     labels: i live in hawaii and i work from home .
-     model: i am competing for a national chess tournament . it helps me keep focus
+     model: hi ! i am here . wish i was there .
 beautiful place . i have a dog walking business . do you have pets ?
     labels: it is . i love it here . i have 2 dogs they love it here too .
-     model: it is . i love it here . i have 2 dogs they love it here too .
+     model: interesting ! speaking of red , when i see blood i faint
 good to talk to a fellow dog lover ! we have three .
     labels: awesome ! will you dress them up for halloween ?
      model: yeah i am its a fun job
@@ -3241,7 +3248,7 @@ have not gotten the chance , maybe this week . you a big horror movie buff ?
      model: horror movies are my favorite !
 perfect time of the year for them !
     labels: my thoughts exactly . nice chatting , have a great day !
-     model: do you enjoy coffee ? that always helps my energy
+     model: she is six . i am a stay at home dad .
 - - - NEW EPISODE: personachat- - -
 your persona: i am an elementary school teacher.
 your persona: my boyfriend and i are moving into an apartment together next week.
@@ -3255,7 +3262,7 @@ i work on my parents farm
      model: in the elementary school from 2 nd to 6 th grade
 it is , but its a lifestyle
     labels: true do you have any hobbies outside of the farm ?
-     model: oh , you bought a car . thought you had to fix it .
+     model: i am so hungry i could eat anything .
 i love listening to country music , its the best genre
     labels: i love photography and foreign language
      model: i love photography and foreign language
@@ -3293,7 +3300,7 @@ and i work at a school so kids everywhere
      model: i want to move out so i can have fun with my friends whenever i want
 i am a teacher where do you work ?
     labels: i am self employed . what subject do you teach
-     model: hi , i have 3 dogs with love my open polyamorous relationship
+     model: i am job hunting , preferably a restaurant .
 i teach early childhood
     labels: that is cool . my mother is actually the chair of and education department
      model: i used to have a dog . he always loved riding in cars too .
@@ -3333,22 +3340,22 @@ hi . do you like country music ?
      model: ok . since alabama , my home team , won saturday night .
 i am a country singer . i wish i was a rock singer though .
     labels: that is cool . are you famous ?
-     model: oh no . maybe when i was younger . do you have any pets ?
+     model: that is cool . are you famous ?
 yes , but due to my record contract , i cannot tell you my name . are you famous ?
     labels: only at my high school . i just won homecoming queen actually
      model: only at my high school . i just won homecoming queen actually
 congratulations . i did not go to school because of my musical career . is your crown nice ?
     labels: it is gorgeous ! what do you do for fun ?
-     model: it is great to have a passion
+     model: awesome ! i teach kindergarten ! i love it
 go to national parks . think about what i missed out on in high school . you ?
     labels: i run all the time . i want to run a 10k one day .
-     model: i run all the time . i want to run a 10k one day .
+     model: no i do not think so . what do you do for a living ?
 i believe in you . are you on the track team ?
     labels: yes i am . but i want to be a physical therapist when i am an adult
      model: yes i am . but i want to be a physical therapist when i am an adult
 i want to be a rock singer .
     labels: you should go for it !
-     model: it does not matter , as you know what i was saying . lighten up .
+     model: i guess so right . i totally agree with you .
 - - - NEW EPISODE: personachat- - -
 your persona: i am in the third grade.
 your persona: mickey mouse is my favorite character.
@@ -3388,7 +3395,7 @@ i am alright just recording
      model: what are you recording ? that sounds interesting .
 music in my studio my kids like it
     labels: do you like the band up ? i saw them once .
-     model: i have been vegan since seventh grade .
+     model: i love my house . indoors is the way to be . my friend teaches chinese children esl
 i used to . i am into newer stuff now
     labels: i cannot wait to go to the beach on vaca this year .
      model: i cannot wait to go to the beach on vaca this year .
@@ -3397,7 +3404,7 @@ have you been there before
      model: i try to go every year with my parents . they were teachers too .
 all in the family career wise nice
     labels: yeah , i followed in their footsteps .
-     model: i like shiny . my mom and dad do not have bikes . they have cars .
+     model: that sounds great . i love to tan . what sort of music do you listen to ?
 you must have a lot to talk to them about
     labels: sometimes . the little kids i teach always make or a good story .
      model: i love the beach and go for every vacation .
@@ -3427,10 +3434,10 @@ i prefer metal . i do not like country at all .
      model: i like metal too but the old school , like lyda ford .
 i love her and ozzy in close your eyes . it is one of my favorites .
     labels: oh man you hit the spot ! i play it loud in my nissan pathfinder .
-     model: i live for ruffles and leggings !
+     model: oh man you hit the spot ! i play it loud in my nissan pathfinder .
 i drive a jeep wrangler . i mix it up with tupac .
     labels: california knows how to party !
-     model: good guess . rob dryden can really shred
+     model: i am driving my honda civic 2015
 true that ! somewhere between psalms 31 and tupac is me , lol
     labels: i am more like john 316 and cypress hill .
      model: i am more like john 316 and cypress hill .
@@ -3447,13 +3454,13 @@ i love america , i have only been here two years , i am from india .
      model: cool ! i have not traveled much since my transplant
 i am sorry , are you okay ?
     labels: i am yes , when i was born my heart was on the outside
-     model: i am yes , when i was born my heart was on the outside
+     model: you bet ! there was a time when no one had a tv .
 what was that like ? i am a boring computer student .
     labels: it was crazy growing up i could not play like most boys
      model: it can be . can also be a boring one .
 that is so sad . i loved my childhood playing with my friends .
     labels: i bet , i learned to do magic like moving things with my mind
-     model: yes i am excited about the move . thank you for your service
+     model: i really want to move to the city , not much to do here . what about you ?
 that is very interesting , can you swim ?
     labels: yes i enjoy swimming a lot
      model: yes i enjoy swimming a lot
@@ -3473,10 +3480,10 @@ i love to play guitar , i was only three when i started
      model: my parents were killed by a clown when i was three . i was then adopted
 hi , how are you ? do you like country music ? i am a singer .
     labels: it is alright . i am more of a pop fan myself
-     model: thanks what do you do though ?
+     model: yes , i have 5 cats . i rescued them and they are very special to me .
 sad , i am sorry , did they every caught the clown ?
     labels: no . now i get scared whenever i see one
-     model: no . now i get scared whenever i see one
+     model: it is a plant that closes when you touch it . i like a good violin .
 lets be happy and not think about that , i love national parks
     labels: i recently got a job ! now i work at a gas station
      model: i recently got a job ! now i work at a gas station
@@ -3488,7 +3495,7 @@ now that is something happy to talk about ! i work in the industry
      model: what industry do you work in ?
 okay , so tell me more about yourself
     labels: i am single . though my dad keeps setting me up on blind dates
-     model: yes , they love me . my dad even tries to set me up on blind dates
+     model: i am single . though my dad keeps setting me up on blind dates
 in the factory , that is what i mean
     labels: cool . what do you make ?
      model: it can be . i eat out a lot because of my job .
@@ -3515,7 +3522,7 @@ you are too young to retire , what you going to do ?
      model: i may visit my grown children since they never visit me .
 that is so good to know , it really scares me
     labels: as a older woman i wish i could have plastic surgery .
-     model: i bet mom is proud . i carried my kids for 9 months , and they do not visit .
+     model: my daughter has dark hair .
 it is good that you visit them , you do your part
     labels: i use to be wrinkle free but the years of time are not kind
      model: i use to be wrinkle free but the years of time are not kind
@@ -3530,13 +3537,13 @@ your persona: i have a boyfriend.
 your persona: i live in a house.
 do you want to hear something strange ?
     labels: sure ! i would love to ! what is it ?
-     model: i have a trust fund and i like to workout and socialize every day .
+     model: why did you have to ?
 i am due to have my fifth set of twins in two months !
     labels: wow . my boyfriend would go crazy . we just moved into a house .
      model: wow . my boyfriend would go crazy . we just moved into a house .
 we just bought our first home . we were living in a two bedroom apartment before .
     labels: nice . i enjoy taking walks around my neighbor hood .
-     model: no we do not . we would not have time , with my busy schedule . i am a pediatrician
+     model: forget that . he probably has diabetes from all the burgers he eats .
 i wish i had time for walks . my job at the bank keeps me busy .
     labels: yeah . i get busy too . all i ever eat is hamburgers and french fries
      model: yeah . i get busy too . all i ever eat is hamburgers and french fries
@@ -3545,10 +3552,10 @@ oh my ! that is a poor diet .
      model: yah bi i never drink any soda . i do not like it
 well that is good . i have not had soda since before i got pregnant .
     labels: oh ok . good for you then !
-     model: i do ! and , i still sew my clothes myself .
+     model: alright ! i am craving pizza , i am pregnant with twins .
 we should go on a walk together sometime .
     labels: sure ! i would love that !
-     model: i can put you in contact with a colleague from work ! we went to the olympics together
+     model: true but i like to try to keep my figure down .
 - - - NEW EPISODE: personachat- - -
 your persona: i like to tan in tanning beds.
 your persona: i love spending money.
@@ -3563,10 +3570,10 @@ what do you do as a profession ?
      model: my parents would yell if they heard britney spears ! their farm is country only !
 ah , i see . well , i have two jobs , but my side job is the interesting one .
     labels: tell me about the interesting one . what is it like ?
-     model: i am well , thank you . how are you ?
+     model: tell me about the interesting one . what is it like ?
 i am an actor of sorts . . . a stunt double ! it is really interesting work .
     labels: wow , i have never met an actor ! you must be very fit .
-     model: wow , i have never met an actor ! you must be very fit .
+     model: i get to keep anything i drop on the floor
 surprisingly enough , too , i have never broken a bone . tell me something else about yourself .
     labels: well , i seem to always be on a diet . . . even though i love food . . .
      model: well , i seem to always be on a diet . . . even though i love food . . .
@@ -3575,7 +3582,7 @@ could you tell me more about that ?
      model: i want to look my best . exercising alone does not seem to cut it .
 i guess that does make sense . do you like to read ?
     labels: not really . school was so boring , and they forced us to read boring stuff .
-     model: no , it is entirely diet controlled .
+     model: nope , cheap watches my family does not really support what i do ! cool
 reading was boring to me in school , too . but i read lots now .
     labels: what do you read ? my sister says fantasy novels are the best .
      model: you should try . it will be important when you grow up .
@@ -3596,7 +3603,7 @@ no wonder you like watches ! i am a commercial electrician
      model: i am a lady who watches her figure . what is your favorite color ?
 why not ? family is important .
     labels: i am not sure why they do not . do you like cars ?
-     model: my family may need that soon .
+     model: i am trying to write invoices for my dog walking business .
 i do ! i love trucks especially . i drive a big f 250
     labels: lovely truck ! i dream of owning a rolls royce ghost one day .
      model: lovely truck ! i dream of owning a rolls royce ghost one day .
@@ -3617,10 +3624,10 @@ your persona: my mom passed away when i was young.
 your persona: i love playing softball.
 hey there buddy boy boyo
     labels: hello , you have any hobbies ?
-     model: i have never had papaya . what do you like to do for fun ?
+     model: i have dogs , two of them . sadie and isabel .
 i can listen to britney spears all day
     labels: awesome i like listening to it while i play tennis .
-     model: i am well . how is the evening going for you ?
+     model: i like the outdoors also , especially exploring new places that i have not seen before .
 i love to spend money that i did not earn
     labels: oh , i see that a lot in my insurance office .
      model: oh , i see that a lot in my insurance office .
@@ -3647,10 +3654,10 @@ your persona: i have a weakness for vanilla ice cream.
 your persona: my favorite season is winter.
 hi there , i am bob .
     labels: hi there . how are you tonight ?
-     model: great ! i love shoes and want a rolls royce one day . you drive ?
+     model: only grudges ! how about you ?
 i am amazing as always .
     labels: you like skiing ? i love skiing . i love anything to with winter actually .
-     model: you like skiing ? i love skiing . i love anything to with winter actually .
+     model: well i can respect that i guess . i am a male chef gender stereotypes bother me
 i spend so much money
     labels: i spend my extra money on hats . what do you buy ?
      model: i have a collection full of hats and have 1000 of them .
@@ -3668,7 +3675,7 @@ i think it is chocolate waffles
      model: chocolate waffles with vanilla ice cream ! yum ! !
 i am on a diet
     labels: i got over diets after the olympics .
-     model: he was average he did not like my favorite color orange .
+     model: i got over diets after the olympics .
 - - - NEW EPISODE: personachat- - -
 your persona: i love cooking but i also enjoy fishing.
 your persona: l also love comic books.
@@ -3686,16 +3693,16 @@ which olympic sports do you like to watch ?
      model: olympic hiking ? is that a sport ? if so , sign me up .
 cool , tell me a little about yourself ?
     labels: i am a african american woman the age of 30
-     model: yes ! tell me about yourself ? i am a gamer .
+     model: i hate that . took my belief in god away
 awesome , i am a white dude in an open relationship .
     labels: so when you say open meaning exactly what ?
      model: so when you say open meaning exactly what ?
 polyamorous meaning me and my boyfriend do stuff with more than one person .
     labels: oh okay so are you bisexual or completely gay ?
-     model: hi , i feel sold , in a juvenile detention for shoplifting
+     model: okay well said , my students love starcraft .
 i am completely gay and my boyfriend is bisexual .
     labels: oh okay well that is good you open about it some people are not
-     model: i love to go to concerts and go backstage on vip passes
+     model: you are joking with me , right ? i work construction . i just finished a house today .
 yeah , i am very open minded its whatever makes the person happy .
     labels: that is apart of being true to yourself
      model: i really enjoy fishing and cooking my catches .
@@ -3710,7 +3717,7 @@ hello from trooper and i . we are in colorado , he is a lab .
      model: i used to have a black lab named cooper , are you religious ?
 i hike and rock climb . getting out of the house is important to me .
     labels: really ? because working from home is my dream
-     model: all of that work will pay off one day . just hang in there .
+     model: every kind . what about you ?
 i have a home office . i went to school for mechanical engineering .
     labels: i did go to school to be a vet but i did not like it
      model: i did go to school to be a vet but i did not like it

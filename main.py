@@ -94,7 +94,7 @@ TrainModel.main(
     lookuptable='enc_dec',
     # margin=0.1,
     # tfidf=False,
-    # numthreads=8,
+    #numthreads=8,
 
     ## GPU : https://dailylime.kr/2020/06/wsl2%EC%97%90%EC%84%9C-ubuntu%EC%99%80-cuda-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/
     fp16=True, fp16_impl='mem_efficient',
