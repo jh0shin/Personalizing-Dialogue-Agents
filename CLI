@@ -1,0 +1,23 @@
+// none, original
+parlai train_model -t personachat:none -m projects.personachat.kvmemnn.kvmemnn:KvmemnnAgent -ltim 60 -vme 10000 -vtim 900 --hops 1 --lins 0 -vp -1 -vmt accuracy -ttim 3600 -shareEmb True -bs 1 -lr 0.1 -esz 500 --margin 0.1 --tfidf False --numthreads 10 -mf "/home/junho/PDA/model/kvmemnn/none" 
+
+// none, revised
+parlai train_model -t personachat:none_revised -m projects.personachat.kvmemnn.kvmemnn:KvmemnnAgent -ltim 60 -vme 10000 -vtim 900 --hops 1 --lins 0 -vp -1 -vmt accuracy -ttim 3600 -shareEmb True -bs 1 -lr 0.1 -esz 500 --margin 0.1 --tfidf False --numthreads 10 -mf "/home/junho/PDA/model/kvmemnn/none_revised" 
+
+// self, original
+parlai train_model -t personachat:self -m projects.personachat.kvmemnn.kvmemnn:KvmemnnAgent -ltim 60 -vme 10000 -vtim 900 --hops 1 --lins 0 -vp -1 -vmt accuracy -ttim 3600 -shareEmb True -bs 1 -lr 0.1 -esz 500 --margin 0.1 --tfidf False --numthreads 10 -mf "/home/junho/PDA/model/kvmemnn/self"
+
+// self, revised
+parlai train_model -t personachat:self_revised -m projects.personachat.kvmemnn.kvmemnn:KvmemnnAgent -ltim 60 -vme 10000 -vtim 900 --hops 1 --lins 0 -vp -1 -vmt accuracy -ttim 3600 -shareEmb True -bs 1 -lr 0.1 -esz 500 --margin 0.1 --tfidf False --numthreads 10 -mf "/home/junho/PDA/model/kvmemnn/self_revised"
+
+// other, original
+parlai train_model -t personachat:other -m projects.personachat.kvmemnn.kvmemnn:KvmemnnAgent -ltim 60 -vme 10000 -vtim 900 --hops 1 --lins 0 -vp -1 -vmt accuracy -ttim 3600 -shareEmb True -bs 1 -lr 0.1 -esz 500 --margin 0.1 --tfidf False --numthreads 10 -mf "/home/junho/PDA/model/kvmemnn/other"
+
+// other, revised
+parlai train_model -t personachat:other_revised -m projects.personachat.kvmemnn.kvmemnn:KvmemnnAgent -ltim 60 -vme 10000 -vtim 900 --hops 1 --lins 0 -vp -1 -vmt accuracy -ttim 3600 -shareEmb True -bs 1 -lr 0.1 -esz 500 --margin 0.1 --tfidf False --numthreads 10 -mf "/home/junho/PDA/model/kvmemnn/other_revised"
+
+// both, original
+parlai train_model -t personachat:both -m projects.personachat.kvmemnn.kvmemnn:KvmemnnAgent -ltim 60 -vme 10000 -vtim 900 --hops 1 --lins 0 -vp -1 -vmt accuracy -ttim 3600 -shareEmb True -bs 1 -lr 0.1 -esz 500 --margin 0.1 --tfidf False --numthreads 10 -mf "/home/junho/PDA/model/kvmemnn/both"
+
+// both, revised
+parlai train_model -t personachat:both_revised -m projects.personachat.kvmemnn.kvmemnn:KvmemnnAgent -ltim 60 -vme 10000 -vtim 900 --hops 1 --lins 0 -vp -1 -vmt accuracy -ttim 3600 -shareEmb True -bs 1 -lr 0.1 -esz 500 --margin 0.1 --tfidf False --numthreads 10 -mf "/home/junho/PDA/model/kvmemnn/both_revised"
